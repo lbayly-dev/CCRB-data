@@ -10,8 +10,10 @@ This visualization allows the user to see the top 25 precints in which active NY
 This code allows for some simple graphing of the data from the NYC Open Data portal. ADD MORE HERE!!! 
 
 # How to install the required libraries:
-import pandas as pd
-import matplotlib.pyplot as plt
+import pandas as pd  
+
+import matplotlib.pyplot as plt  
+
 import seaborn as sns
 
 # How to use: 
