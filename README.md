@@ -14,5 +14,5 @@ import matplotlib.pyplot as plt
 
 import seaborn as sns
 
-# How to use: 
-The code can be copied into Collab and run. The relevant dataset can be downloaded as a csv at this link: https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-Police-Officers/2fir-qns4/about_data. It will then need to be uploaded into the Collab space to be able to run the code. It is reliant on New York City continuing to publish it's data as an easily accessible source in csv format. 
+# How to use code: 
+The code can be opened directly in Colab using the button link. Alternatively, it can be copied and pasted into Collab and used. The relevant dataset can be downloaded as a csv at this link: https://data.cityofnewyork.us/Public-Safety/Civilian-Complaint-Review-Board-Police-Officers/2fir-qns4/about_data. It will then need to be uploaded into the Collab space to be able to run the code. It is reliant on New York City continuing to publish it's data as an easily accessible source in csv format. 
