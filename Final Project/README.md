@@ -1,10 +1,10 @@
 # CCRB-data
 An insight into NYPD Civilian Complaint Review Board (CCRB) data
 
-# Project background: 
+## Project background: 
 This project came out of my experience working as a paralegal at the Manhattan District Attorney's Office. There were frequently acronyms and data that I did not understand, and had to find explanations for across different sources. Beyond merging three different csv files into one table, this project provides definitions for terms. These definitions are pulled together from what the NYC Open Data portal provides, NYPD documentation, and some of my own knowledge. 
 
-# Project use & information story:
+## Project use & information story:
 When a police officer engages in misconduct against a civilian in New York City, the civilian can lodge a complaint with the Civilian Complaint Review Board (CCRB), who will investigate the claim. The data about these complaints is made public by New York City, and published throught the NYC Open Data Portal. 
 This workflow allows the user to more easily see and understand data related to complaints made against New York City Police Department officers. Having easy access to this information is valuable for members of the community to be informed about the history of conduct of law enforcement in their area. Because of the current state of policing in the United States, having transparency around police conduct has become more important. It is useful when evaluating the presence of officers in a particular community, and can allow for members of that community to advocate for better policing practices. Being able to access this information easily can also empower people who have been victims of police misconduct to file a complaint with the CCRB, rather than remaining silent. At the moment, the data that provides informaiton about NYPD officer conduct and the resulting allegations and complaints is spread out across three different datasets that are available through the NYC Open Data Portal. These datasets are downloadable as csv files, and the portal itself provides some quering capabilities. However, there is no option to combine the various datafiles into one place, which can make it harder to find information. For example, only the "Police Officers" file contains the names of the officers involved. The "Complaints" file does not include any information by which to identify the officer invovled in a complaint beyond a complaint ID, which has to be cross-referenced to the "Allegations" file. In files of this size, and using terminology that is not understandable to a lot of people, it can be an overwhelming task to find the relevant information. Therefore, creating an easier to understand information structure that has all the relevant information in one place is a valuable project. 
 
@@ -13,11 +13,11 @@ Therefore, this project amends the existing information structure in the followi
 * Information itself: data is filtered to only show what is relevant to the user. Comments throughout the code explain the modifications being made to the code, such as filtering only for officers that are active. The code can be adapted to the needs of the user, or run as is. 
 * Access methodology: the data is no longer stuck in an overwhelming csv file, but can be viewed in a more easily understandable table through AirTable.
 
-# How to use the workflow: 
+## How to use the workflow: 
 The code to execute the workflow can be opened directly in Colab using the button link. Alternatively, it can be copied and pasted into Colab or another Python notebook and used. 
 To use the AirTable format, 
 
-# How to install the required libraries:
+## How to install the required libraries:
 **Python instructions**
 The data configuration for this project occurs in Python, and is shared as a Google Colab notebook. The required libraries are listed here and at the beginning of the code: 
 
@@ -47,11 +47,5 @@ If none of the columns is further edited from the code, the resulting csv can be
 * Hovering over the i icon in each column header will reveal information about the data in that column
 * If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file
 
-# Quality and Performance: 
-The quality of the output is highly dependent on the input. It relies on New York City continuing to publish this data through an openly accessible platform. If the format of the uploads is changed, this workflow will no longer work. To maintain this workflow, the Python code should be regularly checked to make sure that the pulls from the portal are still working as expected. It is also important to regularly check that column names have not be renamed, so that the column filtering contonues to work as expected. 
-Similarly, the metadata provided for the columns should be regularly checked to make sure that the definitions or possible values that the city uses have not changed. 
-
-It is important that any users of this workflow duplicate the AirTable so that the original stays preserved with all the relevant columns and metadata. Ideally, the access use restrictions will make sure that this is the case. 
-
-# FAIR assessment 
+## FAIR assessment 
 This project integrates different datasets about the New York City Police Department that are available through the New York City Open Data portal. Each of the base data sets comes with an extensive set of metadata (F, I, R) that clearly lays out how the data was created and have data dictionaries to go along with them to explain terms used (I). The project will come with its own set of metadata and explanation of terms to provide context for the information (A, I). The final dataset will be searchable to allow for easy information retrieval and will also be exportable as a csv file (F, I).  
