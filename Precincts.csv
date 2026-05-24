@@ -1,0 +1,1125 @@
+﻿Command Name Abbreviation,Command Name Long,Record Status
+001 DET                                                     ,001 DET SQUAD,Active
+001 PCT                                                     ,001 PRECINCT,Active
+005 DET                                                     ,005 DET SQUAD,Active
+005 PCT                                                     ,005 PRECINCT,Active
+006 DET                                                     ,006 DET SQUAD,Active
+006 PCT                                                     ,006 PRECINCT,Active
+007 DET                                                     ,007 DET SQUAD,Active
+007 PCT                                                     ,007 PRECINCT,Active
+009 DET                                                     ,009 DET SQUAD,Active
+009 PCT                                                     ,009 PRECINCT,Active
+010 DET                                                     ,010 DET SQUAD,Active
+010 PCT                                                     ,010 PRECINCT,Active
+013 DET                                                     ,013 DET SQUAD,Active
+013 PCT                                                     ,013 PRECINCT,Active
+017 DET                                                     ,017 DET SQUAD,Active
+017 PCT                                                     ,017 PRECINCT,Active
+019 DET                                                     ,019 DET SQUAD,Active
+019 PCT                                                     ,019 PRECINCT,Active
+020 DET                                                     ,020 DET SQUAD,Active
+020 PCT                                                     ,020 PRECINCT,Active
+023 DET                                                     ,023 DET SQUAD,Active
+023 PCT                                                     ,023 PRECINCT,Active
+024 DET                                                     ,024 DET SQUAD,Active
+024 PCT                                                     ,024 PRECINCT,Active
+025 DET                                                     ,025 DET SQUAD,Active
+025 PCT                                                     ,025 PRECINCT,Active
+026 DET                                                     ,026 DET SQUAD,Active
+026 PCT                                                     ,026 PRECINCT,Active
+028 DET                                                     ,028 DET SQUAD,Active
+028 PCT                                                     ,028 PRECINCT,Active
+030 DET                                                     ,030 DET SQUAD,Active
+030 PCT                                                     ,030 PRECINCT,Active
+032 DET                                                     ,032 DET SQUAD,Active
+032 PCT                                                     ,032 PRECINCT,Active
+033 DET                                                     ,033 DET SQUAD,Active
+033 PCT                                                     ,033 PRECINCT,Active
+034 DET                                                     ,034 DET SQUAD,Active
+034 PCT                                                     ,034 PRECINCT,Active
+040 DET                                                     ,040 DET SQUAD,Active
+040 PCT                                                     ,040 PRECINCT,Active
+041 DET                                                     ,041 DET SQUAD,Active
+041 PCT                                                     ,041 PRECINCT,Active
+042 DET                                                     ,042 DET SQUAD,Active
+042 PCT                                                     ,042 PRECINCT,Active
+043 DET                                                     ,043 DET SQUAD,Active
+043 PCT                                                     ,043 PRECINCT,Active
+044 DET                                                     ,044 DET SQUAD,Active
+044 PCT                                                     ,044 PRECINCT,Active
+045 DET                                                     ,045 DET SQUAD,Active
+045 PCT                                                     ,045 PRECINCT,Active
+046 DET                                                     ,046 DET SQUAD,Active
+046 PCT                                                     ,046 PRECINCT,Active
+047 DET                                                     ,047 DET SQUAD,Active
+047 PCT                                                     ,047 PRECINCT,Active
+048 DET                                                     ,048 DET SQUAD,Active
+048 PCT                                                     ,048 PRECINCT,Active
+049 DET                                                     ,049 DET SQUAD,Active
+049 PCT                                                     ,049 PRECINCT,Active
+050 DET                                                     ,050 DET SQUAD,Active
+050 PCT                                                     ,050 PRECINCT,Active
+052 DET                                                     ,052 DET SQUAD,Active
+052 PCT                                                     ,052 PRECINCT,Active
+060 DET                                                     ,060 DET SQUAD,Active
+060 PCT                                                     ,060 PRECINCT,Active
+061 DET                                                     ,061 DET SQUAD,Active
+061 PCT                                                     ,061 PRECINCT,Active
+062 DET                                                     ,062 DET SQUAD,Active
+062 PCT                                                     ,062 PRECINCT,Active
+063 DET                                                     ,063 DET SQUAD,Active
+063 PCT                                                     ,063 PRECINCT,Active
+066 DET                                                     ,066 DET SQUAD,Active
+066 PCT                                                     ,066 PRECINCT,Active
+067 DET                                                     ,067 DET SQUAD,Active
+067 PCT                                                     ,067 PRECINCT,Active
+068 DET                                                     ,068 DET SQUAD,Active
+068 PCT                                                     ,068 PRECINCT,Active
+069 DET                                                     ,069 DET SQUAD,Active
+069 PCT                                                     ,069 PRECINCT,Active
+070 DET                                                     ,070 DET SQUAD,Active
+070 PCT                                                     ,070 PRECINCT,Active
+071 DET                                                     ,071 DET SQUAD,Active
+071 PCT                                                     ,071 PRECINCT,Active
+072 DET                                                     ,072 DET SQUAD,Active
+072 PCT                                                     ,072 PRECINCT,Active
+073 DET                                                     ,073 DET SQUAD,Active
+073 PCT                                                     ,073 PRECINCT,Active
+075 DET                                                     ,075 DET SQUAD,Active
+075 PCT                                                     ,075 PRECINCT,Active
+076 DET                                                     ,076 DET SQUAD,Active
+076 PCT                                                     ,076 PRECINCT,Active
+077 DET                                                     ,077 DET SQUAD,Active
+077 PCT                                                     ,077 PRECINCT,Active
+078 DET                                                     ,078 DET SQUAD,Active
+078 PCT                                                     ,078 PRECINCT,Active
+079 DET                                                     ,079 DET SQUAD,Active
+079 PCT                                                     ,079 PRECINCT,Active
+081 DET                                                     ,081 DET SQUAD,Active
+081 PCT                                                     ,081 PRECINCT,Active
+083 DET                                                     ,083 DET SQUAD,Active
+083 PCT                                                     ,083 PRECINCT,Active
+084 DET                                                     ,084 DET SQUAD,Active
+084 PCT                                                     ,084 PRECINCT,Active
+088 DET                                                     ,088 DET SQUAD,Active
+088 PCT                                                     ,088 PRECINCT,Active
+090 DET                                                     ,090 DET SQUAD,Active
+090 PCT                                                     ,090 PRECINCT,Active
+094 DET                                                     ,094 DET SQUAD,Active
+094 PCT                                                     ,094 PRECINCT,Active
+100 DET                                                     ,100TH DET SQUAD,Active
+100 PCT                                                     ,100 PRECINCT,Active
+101 DET                                                     ,101ST DET SQUAD,Active
+101 PCT                                                     ,101 PRECINCT,Active
+102 DET                                                     ,102ND DET SQUAD,Active
+102 PCT                                                     ,102 PRECINCT,Active
+103 DET                                                     ,103RD DETECTIVE SQUAD,Active
+103 PCT                                                     ,103 PRECINCT,Active
+104 DET                                                     ,104TH DET SQUAD,Active
+104 PCT                                                     ,104 PRECINCT,Active
+105 DET                                                     ,105TH DET SQUAD,Active
+105 PCT                                                     ,105 PRECINCT,Active
+106 DET                                                     ,106TH DET SQUAD,Active
+106 PCT                                                     ,106 PRECINCT,Active
+107 DET                                                     ,107TH DET SQUAD,Active
+107 PCT                                                     ,107 PRECINCT,Active
+108 DET                                                     ,108TH DET SQUAD,Active
+108 PCT                                                     ,108 PRECINCT,Active
+109 DET                                                     ,109TH DET SQUAD,Active
+109 PCT                                                     ,109 PRECINCT,Active
+110 DET                                                     ,110TH DET SQUAD,Active
+110 PCT                                                     ,110 PRECINCT,Active
+111 DET                                                     ,111TH DET SQUAD,Active
+111 PCT                                                     ,111 PRECINCT,Active
+112 DET                                                     ,112TH DET SQUAD,Active
+112 PCT                                                     ,112 PRECINCT,Active
+113 DET                                                     ,113TH DET SQUAD,Active
+113 PCT                                                     ,113 PRECINCT,Active
+114 DET                                                     ,114TH DET SQUAD,Active
+114 PCT                                                     ,114 PRECINCT,Active
+115 DET                                                     ,115TH DET SQUAD,Active
+115 PCT                                                     ,115 PRECINCT,Active
+115 RSVLT TF                                                ,115 PCT ROOSEVELT AVE TF,Active
+120 DET                                                     ,120 DETECTIVE SQUAD,Active
+120 PCT                                                     ,120 PRECINCT,Active
+120 VIPER                                                   ,120 PCT VIPER,Active
+121 DET                                                     ,121 DETECTIVE SQUAD,Active
+121 PCT                                                     ,121 PRECINCT,Active
+122 DET                                                     ,122 DETECTIVE SQUAD,Active
+122 PCT                                                     ,122 PRECINCT,Active
+123 DET                                                     ,NA,Inactive
+123 DET SQD                                                 ,123 DETECTIVE SQUAD,Active
+123 PCT                                                     ,123 PRECINCT,Active
+125 ST TF                                                   ,125 STREET TASK FORCE,Active
+1ST D C                                                     ,FIRST DEPUTY COMMISSIONER,Active
+1ST D.C                                                     ,NA,Inactive
+28 PCT HUB                                                  ,28 PCT HUB SITE,Active
+A P DIV                                                     ,NA,Inactive
+A&E                                                         ,ARSON & EXPLOSION,Active
+A&E SQD                                                     ,NA,Inactive
+AC ZONE I                                                   ,AC ZONE I QUEENS/BKLYN/S.I.,Active
+AC ZONE II                                                  ,AC ZONE II BRONX/ MANHATTAN,Active
+ADM DIV                                                     ,NA,Inactive
+ADM DIV                                                     ,NA,Inactive
+ADM SUP                                                     ,NA,Inactive
+ANALYSIS&MAP                                                ,OMAP ANALYSIS & MAPPING SECT,Active
+ANIMAL INV SQD                                              ,SID ANIMAL CRUELTY INV SQD,Active
+ASSET FORFEIT                                               ,ASSET FORFEITURE UNIT,Active
+AUD&ACC                                                     ,NA,Inactive
+AUD&ACCT                                                    ,AUDITS & ACCOUNTS UNIT,Active
+AUTO CD                                                     ,NA,Inactive
+AUTO CR                                                     ,AUTO CRIME,Active
+AUTO PND                                                    ,AUTO POUND,Active
+AUX P.S                                                     ,NA,Inactive
+AUX POL SEC                                                 ,AUXILIARY POLICE SECT,Active
+AV UNIT                                                     ,NA,Inactive
+AV.UNIT                                                     ,NA,Inactive
+AVIATION                                                    ,AVIATION UNIT,Active
+B/S-END                                                     ,NA,Inactive
+B/S-WND                                                     ,NA,Inactive
+BALLISTIC VEST                                              ,BALLISTIC VEST UNIT,Active
+BARRIER                                                     ,BARRIER SECTION,Active
+BDBKZ14                                                     ,NA,Inactive
+BH DIV                                                      ,BEHAVIORAL HEALTH DIVISION,Active
+BK CHILD                                                    ,BROOKLYN CHILD ABUSE SQUAD,Active
+BK COURT                                                    ,BROOKLYN COURT SECTION,Active
+BK IMP                                                      ,NA,Inactive
+BK SVS                                                      ,BROOKLYN SPECIAL VICTIMS SQUAD,Active
+BK TRAN ROB SQD                                             ,BKLYN TRANSIT ROBBERY SQUAD,Active
+BKLN CT                                                     ,NA,Inactive
+BKROBSQ                                                     ,BKLYN ROBBERY SQ,Active
+BLDG MAINT                                                  ,BUILDING MAINTENANCE SECT,Active
+BM SEC                                                      ,NA,Inactive
+BN CRIME ANL                                                ,BN CRIME ANALYSIS UNIT,Active
+BN GRAND LARC                                               ,BROOKLYN NORTH GRAND LARCENY SQD,Active
+BN IRT                                                      ,NA,Inactive
+BN OP NIGHT                                                 ,BROOKLYN NORTH OPER NIGHT WATCH,Active
+BN SU ECT                                                   ,BN EVIDENCE COLLECTION TEAM,Active
+BN VICE                                                     ,BKLYN NORTH VICE MODULE,Active
+BN WARR SQD                                                 ,BKLYN NORTH WARRANT SQUAD,Active
+BNNARCD                                                     ,NA,Inactive
+BOMB SQ                                                     ,BOMB SQUAD,Active
+BS CRIME ANL                                                ,BS CRIME ANALYSIS UNIT,Active
+BS GRAND LARC                                               ,BROOKLYN SOUTH GRAND LARCENY SQD,Active
+BS IRT                                                      ,NA,Inactive
+BS OP NIGHT                                                 ,BROOKLYN SOUTH OPER NIGHT WATCH,Active
+BS SU ECT                                                   ,BS EVIDENCE COLLECTION TEAM,Active
+BS VICE                                                     ,BKLYN SOUTH VICE MODULE,Active
+BS WARRANT SQD                                              ,BROOKLYN SOUTH WARRANT SQD,Active
+BUS UT                                                      ,NA,Inactive
+BUSINESS INTGRTY                                            ,CEIS BUSINESS INTEGRITY COM,Active
+BX APP TEAM                                                 ,BRONX OP APPRHENSION TEAM,Active
+BX CB                                                       ,NA,Inactive
+BX CHILD                                                    ,BRONX CHILD ABUSE SQUAD,Active
+BX COURT                                                    ,BRONX COURT SECT,Active
+BX CRIME ANL                                                ,BX CRIME ANALYSIS UNIT,Active
+BX CT                                                       ,NA,Inactive
+BX GRAND LARC                                               ,BRONX GRAND LARCENY SQD,Active
+BX IRT                                                      ,NA,Inactive
+BX OP NIGHT                                                 ,BRONX OPER NIGHT WATCH,Active
+BX SU ALU                                                   ,BX AUTO LARCENY UNIT,Active
+BX SU ECT                                                   ,BX EVIDENCE COLLECTION TEAM,Active
+BX SVS                                                      ,BRONX SPECIAL VICTIMS SQUAD,Active
+BX TRAN ROB                                                 ,BRONX TRANSIT ROBBERY SQUAD,Active
+BX VICE                                                     ,BRONX VICE MODULE,Active
+BX WARRANT SQD                                              ,BRONX WARRANT SQD,Active
+BX/N-ND                                                     ,NA,Inactive
+BX/Q IM                                                     ,NA,Inactive
+BX/S-ND                                                     ,NA,Inactive
+BXD CID                                                     ,NA,Inactive
+BXROBSQ                                                     ,BRONX ROBBERY SQUAD,Active
+C A B                                                       ,NA,Inactive
+C A D                                                       ,NA,Inactive
+C C A S                                                     ,NA,Inactive
+C C SQD                                                     ,COLD CASE SQUAD,Active
+C D D                                                       ,NA,Inactive
+C E D                                                       ,NA,Inactive
+C O B                                                       ,NA,Inactive
+C O D                                                       ,NA,Inactive
+C O S U                                                     ,NA,Inactive
+C R C                                                       ,NA,Inactive
+C S O                                                       ,NA,Inactive
+C SCENE                                                     ,CRIME SCENE UNIT,Active
+C TERR                                                      ,NA,Inactive
+C/PRV D                                                     ,NA,Inactive
+C/SCENE                                                     ,NA,Inactive
+CA JVJD                                                     ,NA,Inactive
+CA SECT                                                     ,NA,Inactive
+CA/CP D                                                     ,NA,Inactive
+CAB                                                         ,COMMUNITY AFFAIRS BUREAU,Active
+CAB COD                                                     ,COMMUNITY OUTREACH DIVISION,Active
+CAB INV                                                     ,CAB INVESTIGATIONS UNIT,Active
+CAD CAS                                                     ,CHARACTER ASSESSMENT SECTION,Active
+CAD MAS                                                     ,CAD MEDICAL ASSESSMENT SECTION,Active
+CAD PAS                                                     ,CAD PSYCH ASSESSMENT SECTION,Active
+CAD RECRUIT                                                 ,CAD RECRUITMENT SECTION,Active
+CADET CORPS                                                 ,POLICE CADET CORPS UNIT,Active
+CAPITAL CONST                                               ,CAPITAL CONSTRUCTION UNIT,Active
+CCCS                                                        ,CHIEF CRIME CONTROL STRATEGIES,Active
+CCCS DLU                                                    ,CCCS DISCOVERY LIAISON UNIT,Active
+CD C&C                                                      ,NA,Inactive
+CD EPES                                                     ,NA,Inactive
+CD IRS                                                      ,NA,Inactive
+CD OFF                                                      ,CHIEF OF DEPARTMENT,Active
+CD OP/D                                                     ,NA,Inactive
+CD OP/U                                                     ,NA,Inactive
+CEIS BES TF                                                 ,CEIS BORDER ENFORCEMENT SEC TASK FORCE,Active
+CEN REC                                                     ,NA,Inactive
+CENROBB                                                     ,NA,Inactive
+CENTRAL REC                                                 ,CENTRAL RECORDS DIV,Active
+CEREMONIAL                                                  ,CEREMONIAL UNIT,Active
+CH S IN                                                     ,NA,Inactive
+CHANGE MGMT                                                 ,DCSI CHANGE MANAGEMENT OFFICE,Active
+CHAPLAINS                                                   ,CHAPLAINS UNIT,Active
+CI&RDIV                                                     ,NA,Inactive
+CID ADMIN                                                   ,CID ADMINISTRATION,Active
+CID CRIME STOP                                              ,CID CRIME STOPPERS UNIT,Active
+CID TACTICAL TRN                                            ,CID TACTICAL TRAINING,Active
+CIV HIRING                                                  ,CIVILIAN HIRING UNIT,Active
+CJB                                                         ,CRIMINAL JUSTICE BUREAU,Active
+CJB INV                                                     ,CJB INVESTIGATIONS UNIT,Active
+CMD LVL TRN                                                 ,TRN BUR CMD LVL TRAINING SECT,Active
+CMU 01                                                      ,COURT MONITORING UNIT 1 (MAN/BK/SI),Active
+CMU 02                                                      ,COURT MONITORING UNIT 2 (BX/QNS/TLC),Active
+CO RESPONSE                                                 ,CO RESPONSE UNIT,Active
+CO TR                                                       ,NA,Inactive
+COD                                                         ,CHIEF OF DEPARTMENT OFFICE,Active
+COD BUSINESS                                                ,BUSINESS DIST RECOVERY INIT DTL,Active
+COD DVIU                                                    ,DOMESTIC VIOLENCE INSP. UNIT,Active
+COD DVU                                                     ,COD DOMESTIC VIOLENCE UNIT,Active
+COD LIAISON                                                 ,COD LIAISON UNIT,Active
+COD SAS                                                     ,NA,Inactive
+COL POL                                                     ,NA,Inactive
+COMM DIV                                                    ,COMMUNICATIONS DIV,Active
+COMMDIV                                                     ,NA,Inactive
+COMMSEC                                                     ,NA,Inactive
+COMP CRIMES                                                 ,SID COMPUTER CRIMES,Active
+COMPSTAT ANL                                                ,COMPSTAT ANALYTICAL UNIT,Active
+CON ADM                                                     ,NA,Inactive
+CONTRACT ADM                                                ,CONTRACT ADMIN PROCUREMENT DIVISION,Active
+CP YSU                                                      ,DCCPART YOUTH STRATEGIES UNIT,Active
+CPK DET                                                     ,CENTRAL PK DET SQ,Active
+CPK PCT                                                     ,CENTRAL PARK PRECINCT,Active
+CR PREV                                                     ,NA,Inactive
+CRC                                                         ,CRITICAL RESPONSE COMMAND,Active
+CRC CANINE                                                  ,CRC CANINE UNIT,Active
+CRD SPARTA                                                  ,CRD SPARTA GROUP,Active
+CREATIVE SERV                                               ,CREATIVE SERVICES SECTION,Active
+CRIM ENTERPR                                                ,CRIMINAL ENTERPRISE DIVISION,Active
+CRJ BUR                                                     ,NA,Inactive
+CRM CTL                                                     ,NA,Inactive
+CRM REC                                                     ,NA,Inactive
+CRS/AU                                                      ,NA,Inactive
+CSO                                                         ,CHIEF OF SPECIAL OPERATIONS,Active
+CSO INV                                                     ,CSO INVESTIGATIONS UNIT,Active
+CT BUR                                                      ,COUNTERTERRORISM BUREAU,Active
+CT DIV                                                      ,COUNTERTERRORISM DIVISION,Active
+CT EPES                                                     ,NA,Inactive
+CT LMSI                                                     ,LOWER MANHATTAN SECURITY INITIATIVE,Active
+CT UNIT                                                     ,CITYWIDE COUNTERTERRORISM UNIT,Active
+CTB INV UNIT                                                ,CTB INVESTIGATIONS UNIT,Active
+CTERRDV                                                     ,NA,Inactive
+CW T TF                                                     ,NA,Inactive
+CW TRAFF TF                                                 ,TRB CITYWIDE TRAFFIC T/F,Active
+D C C A                                                     ,NA,Inactive
+D C L M                                                     ,NA,Inactive
+D C M B                                                     ,NA,Inactive
+D C P I                                                     ,DEP COMM PUBLIC INFORMATION,Active
+D C TRL                                                     ,NA,Inactive
+D-E T/F                                                     ,NA,Inactive
+D.A.R.E                                                     ,NA,Inactive
+DA BKLN                                                     ,DA SQUAD BROOKLYN,Active
+DA BKN                                                      ,NA,Inactive
+DA BX                                                       ,DA SQUAD BRONX,Active
+DA NY                                                       ,NA,Inactive
+DA QNS                                                      ,DA SQUAD QUEENS,Active
+DA S/I                                                      ,NA,Inactive
+DA SI                                                       ,NA,Inactive
+DA SQD NY                                                   ,DA SQ NY COUNTY,Active
+DA SQD SI                                                   ,DA SQUAD SI,Active
+DB BCIU                                                     ,NA,Inactive
+DB BIAS                                                     ,NA,Inactive
+DB BKLN                                                     ,NA,Inactive
+DB BNHM                                                     ,DET BORO BKLYN NO HOMICIDE SQ,Active
+DB BSHM                                                     ,DET BORO BKLYN SO HOMICIDE SQ,Active
+DB BSVS                                                     ,NA,Inactive
+DB BX                                                       ,NA,Inactive
+DB BXHM                                                     ,DET BORO BX HOMICIDE SQ,Active
+DB BXSV                                                     ,NA,Inactive
+DB CED                                                      ,NA,Inactive
+DB CEIS                                                     ,CRIMINAL ENTERPRISE INVEST SEC,Active
+DB CID                                                      ,NA,Inactive
+DB CRD                                                      ,CENTRAL ROBBERY DIVISION,Active
+DB FCTF                                                     ,FINANCIAL CRIMES TASK FORCE,Active
+DB FED                                                      ,FUGITIVE ENFORCEMENT DIVISION,Active
+DB FID                                                      ,FORENSIC INVESTIGATIONS DIV,Active
+DB GLD                                                      ,GRAND LARCENY DIVISION,Active
+DB GVSD                                                     ,GUN VIOLENCE SUPPRESSION DIVISION,Active
+DB HATE                                                     ,HATE CRIME TASK FORCE,Active
+DB INV SUPP                                                 ,DB INVESTIGATIVE SUPPORT,Active
+DB INV UNIT                                                 ,DB INVESTIGATIONS UNIT,Active
+DB LPS                                                      ,LATENT PRINT SECTION,Active
+DB MAN                                                      ,NA,Inactive
+DB MCID                                                     ,NA,Inactive
+DB MNHM                                                     ,DET BORO MAN NO HOMICIDE SQ,Active
+DB MSHM                                                     ,DET BORO MAN SO HOMICIDE SQ,Active
+DB MSVS                                                     ,NA,Inactive
+DB O&IT                                                     ,NA,Inactive
+DB QNHM                                                     ,DET BORO QNS NORTH HOMICIDE SQ,Active
+DB QNS                                                      ,NA,Inactive
+DB QSVS                                                     ,NA,Inactive
+DB RTCC                                                     ,NA,Inactive
+DB SI                                                       ,NA,Inactive
+DB SID                                                      ,SPECIAL INVESTIGATIONS DIV,Active
+DB SPEC ENF DIV                                             ,DB SPECIALTY ENFORCEMENT DIVISION,Active
+DB SVD                                                      ,SPECIAL VICTIMS DIVISION,Active
+DB TSIU                                                     ,DB TRANSIT SPECIAL INV UNIT,Active
+DBBKZ10                                                     ,NA,Inactive
+DBBKZ11                                                     ,NA,Inactive
+DBBKZ12                                                     ,NA,Inactive
+DBBKZ13                                                     ,NA,Inactive
+DBBKZ14                                                     ,NA,Inactive
+DBBKZ21                                                     ,NA,Inactive
+DBBKZ22                                                     ,NA,Inactive
+DBBN                                                        ,DET BORO BROOKLYN NORTH,Active
+DBBN OP                                                     ,DET BORO BKLYN NORTH OPER,Active
+DBBS                                                        ,DET BORO BKLYN SOUTH,Active
+DBBS OP                                                     ,DET BORO BKLYN SOUTH OPER,Active
+DBBX                                                        ,DET BORO BRONX,Active
+DBBX OP                                                     ,DET BORO BRONX OPER,Active
+DBBX Z8                                                     ,NA,Inactive
+DBBX Z9                                                     ,DET BORO BRONX ZONE #9,Active
+DBCR Z1                                                     ,NA,Inactive
+DBM ZN1                                                     ,DET BORO MANHATTAN ZONE #1,Active
+DBM ZN2                                                     ,DET BORO MANHATTAN ZONE #2,Active
+DBM ZN4                                                     ,NA,Inactive
+DBM ZN5                                                     ,DET BORO MANHATTAN ZONE #5,Active
+DBM ZN6                                                     ,DET BORO MANHATTAN ZONE #6,Active
+DBMN                                                        ,DET BORO MANHATTAN NORTH,Active
+DBMN OP                                                     ,DET BORO MAN NORTH OPER,Active
+DBMNHTF                                                     ,NA,Inactive
+DBMS                                                        ,DET BORO MANHATTAN SOUTH,Active
+DBMS OP                                                     ,DET BORO MAN SOUTH OPER,Active
+DBQ Z16                                                     ,DET BORO QUEENS ZONE #16,Active
+DBQ Z17                                                     ,NA,Inactive
+DBQ Z24                                                     ,NA,Inactive
+DBQN                                                        ,DET BORO QUEENS NORTH,Active
+DBQN OP                                                     ,DET BORO QNS NORTH OPER,Active
+DBQS                                                        ,DET BORO QUEENS SOUTH,Active
+DBQS OP                                                     ,DET BORO QNS SOUTH OPER,Active
+DBSI                                                        ,DET BORO STATEN ISLAND,Active
+DBSI OP                                                     ,NA,Inactive
+DBSV Z1                                                     ,NA,Inactive
+DBSV Z2                                                     ,NA,Inactive
+DBSV Z3                                                     ,NA,Inactive
+DC ADV                                                      ,NA,Inactive
+DC C TR                                                     ,NA,Inactive
+DC DAO                                                      ,NA,Inactive
+DC EEO                                                      ,NA,Inactive
+DC INT                                                      ,NA,Inactive
+DC IT                                                       ,NA,Inactive
+DC LABR                                                     ,NA,Inactive
+DC MAP                                                      ,NA,Inactive
+DC OPER                                                     ,NA,Inactive
+DC TRIALS                                                   ,DEP COMM TRIALS,Active
+DC TRL                                                      ,NA,Inactive
+DC TRNG                                                     ,NA,Inactive
+DCCPART                                                     ,DEP COMM COMMUNITY PARTNERSHIPS,Active
+DCDAO                                                       ,DEP COMM DEPARTMENT ADVOCATE,Active
+DCEI                                                        ,DEP COMM EQUITY & INCLUSION,Active
+DCER                                                        ,DEP COMM EMPLOYEE RELATIONS,Active
+DCER CU                                                     ,NA,Inactive
+DCINTCT                                                     ,DEP COMM INTEL & COUNTERTERRORISM,Active
+DCLR                                                        ,DEP COMM LABOR RELATIONS,Active
+DCMB                                                        ,DEP COMM MANAGEMENT & BUDGET,Active
+DCMB INV                                                    ,DCMB INVESTIGATIONS UNIT,Active
+DCSC                                                        ,DEP COMM STRATEGIC COMMUNICATIONS,Active
+DCSI                                                        ,DEP COMM STRATEGIC INITIATIVES,Inactive
+DCSI ORI                                                    ,DCSI OFF OF RESEARCH & INNOV,Active
+DCSI PMO                                                    ,DCSI PROJECT MANAGEMENT OFFICE,Active
+DCU TACT TRN                                                ,TACTICAL TRAINING UNIT,Active
+DESIGN&EVAL                                                 ,DCSI DESIGN & EVAL OFFICE,Active
+DET BUR                                                     ,DETECTIVE BUREAU,Active
+DET BUR                                                     ,OFFICE OF THE CHIEF OF DETECTIVES,Active
+DIR TRN                                                     ,NA,Inactive
+DIS CTL                                                     ,DISORDER CONTROL UNIT,Active
+DOC FRAUD SQD                                               ,DOCUMENT FRAUD SQUAD,Active
+DPT ADV                                                     ,NA,Inactive
+DPT INV                                                     ,DEPT OF INVESTIGATION SQUAD,Active
+DR.ED&T                                                     ,NA,Inactive
+DRIVE ED & TRN                                              ,DRIVER EDUCATION & TRAINING UNIT,Active
+DRUG ENF TF                                                 ,DRUG ENFORCEMENT TASK FORCE,Active
+E S U                                                       ,NA,Inactive
+EEO DIV                                                     ,EQUAL EMPLOYMENT OPPORTUNITY DIV,Active
+EEO INV UNIT                                                ,EEO INVESTIGATIONS UNIT,Active
+ELECTRONICS                                                 ,LSSD ELECTRONICS SECTION,Active
+EM OPS                                                      ,NA,Inactive
+EMER OPS DIV                                                ,EMERGENCY OPERATIONS DIVISION,Active
+EMP REL                                                     ,NA,Inactive
+EMPL RESOURCE                                               ,EMPLOYEE RESOURCES SECTION,Active
+EPE RECOVERY TF                                             ,OPS EPE RECOVERY TASK FORCE,Active
+EQP SEC                                                     ,NA,Inactive
+EQUIPMENT                                                   ,EQUIPMENT SECTION,Active
+ESS 01                                                      ,EMER SERV SQ 01,Active
+ESS 02                                                      ,EMER SERV SQ 02,Active
+ESS 03                                                      ,EMER SERV SQ 03,Active
+ESS 04                                                      ,EMER SERV SQ 04,Active
+ESS 05                                                      ,EMER SERV SQ 05,Active
+ESS 06                                                      ,EMER SERV SQ 06,Active
+ESS 07                                                      ,EMER SERV SQ 07,Active
+ESS 08                                                      ,EMER SERV SQ 08,Active
+ESS 09                                                      ,EMER SERV SQ 09,Active
+ESS 10                                                      ,EMER SERV SQ 10,Active
+ESU                                                         ,EMERGENCY SERVICES UNIT,Active
+ESU CAN                                                     ,NA,Inactive
+ESU K9                                                      ,ESU CANINE TEAM,Active
+F S D                                                       ,NA,Inactive
+F S S                                                       ,FIREARMS SUPPRESSION SECTION,Active
+F.T.S.                                                      ,NA,Inactive
+FACIL MGMT                                                  ,FACILITIES MANAGEMENT DIVISION,Active
+FAM ASSIST                                                  ,FAMILY ASSISTANCE SECTION,Active
+FAM EXEMPT                                                  ,FAS EXEMPT HARDSHIP,Active
+FAM SEC                                                     ,NA,Inactive
+FAM SUPP TEAM                                               ,FAS SUPPORT TEAM,Active
+FIN CRM SEC                                                 ,CEIS FINANCIAL CRIMES SECTION,Active
+FIREARMS INV                                                ,FIREARMS INVESTIGATION UNIT,Active
+FIS DIV                                                     ,NA,Inactive
+FISCAL AFF                                                  ,FISCAL AFFAIRS DIVISION,Active
+FLT SRV                                                     ,FLEET SERVICES DIVISION,Active
+FLT SVC                                                     ,NA,Inactive
+FM DIV                                                      ,NA,Inactive
+FM SEC                                                      ,FACILITY MAINTENANCE SECTION,Active
+FOR INV                                                     ,NA,Inactive
+FORCE ID                                                    ,FORCE INVESTIGATION DIVISION,Active
+FORCE ID Z1                                                 ,FORCE ID ZONE 1 (M/BX),Active
+FORCE ID Z2                                                 ,FORCE ID ZONE 2 (BK/QNS/SI),Active
+FORCEID                                                     ,NA,Inactive
+FRAUD COL IN                                                ,CEIS FRAUD COLLISION INV SQUAD,Active
+FTS                                                         ,FIREARMS & TACTICS SECTION,Active
+FUG ENF                                                     ,NA,Inactive
+GANG BN                                                     ,NA,Inactive
+GANG BS                                                     ,NA,Inactive
+GANG BX                                                     ,NA,Inactive
+GANG DV                                                     ,NA,Inactive
+GANG ID                                                     ,NA,Inactive
+GANG IU                                                     ,NA,Inactive
+GANG M                                                      ,NA,Inactive
+GANG MN                                                     ,NA,Inactive
+GANG MS                                                     ,NA,Inactive
+GANG Q                                                      ,NA,Inactive
+GANG QN                                                     ,NA,Inactive
+GANG QS                                                     ,NA,Inactive
+GANG SI                                                     ,NA,Inactive
+GLD ZN 1                                                    ,GRAND LARCENY DIV ZONE 1,Active
+GRANTS UNIT                                                 ,GRANTS UNIT,Active
+GUN OFFDR MONT                                              ,GUN OFFENDER MONITORING UNIT,Active
+GVS DIV                                                     ,NA,Inactive
+GVSD GUN REC                                                ,GVSD GUN RECIDIVIST INV PROG,Active
+GVSD JFTF                                                   ,GVSD JOINT FIREARMS TASK FORCE,Active
+GVSD Z1                                                     ,"GUN VIOL SUPP DIV Z1 (BK,Q,SI)",Active
+GVSD Z1 VRTF                                                ,GVSD Z1 VIOLENCE RED T/F,Active
+GVSD Z2                                                     ,"GUN VIOL SUPP DIV Z2 (MAN,BX)",Active
+GVSD Z2 VRTF                                                ,GVSD Z2 VIOLENCE RED T/F,Active
+H BKLYN                                                     ,HOUSING BOROUGH BROOKLYN,Active
+H BX/Q                                                      ,HOUSING BOROUGH BRONX/QUEENS,Active
+H INV U                                                     ,HOUSING INVESTIGATIONS UNIT,Active
+H MAN                                                       ,NA,Inactive
+H SP OP                                                     ,HB SPECIAL OPERATIONS SECTION,Active
+H VANDL                                                     ,NA,Inactive
+H&W EAU                                                     ,H&W EMPLOYEE ASSISTANCE UNIT,Active
+H&WELL                                                      ,NA,Inactive
+H&WELL POPPA                                                ,H&WELL POPPA LIAISON,Active
+HARBOR                                                      ,HARBOR UNIT,Active
+HAZ WMD                                                     ,HAZMAT/WEAPONS OF MASS DESTRUCTION,Active
+HB                                                          ,HOUSING BUREAU,Active
+HB SPEC                                                     ,NA,Inactive
+HBK IRT                                                     ,NA,Inactive
+HBK RT                                                      ,HB BROOKLYN RESPONSE TEAM,Active
+HBM                                                         ,HOUSING BOROUGH MANHATTAN,Active
+HBM IRT                                                     ,NA,Inactive
+HBM RT                                                      ,HB MANHATTAN RESPONSE TEAM,Active
+HBX/QIM                                                     ,NA,Inactive
+HBXQ RT                                                     ,HB BRONX/QUEENS RESPONSE TEAM,Active
+HBXQIRT                                                     ,NA,Inactive
+HLTH & WELL                                                 ,HEALTH & WELLNESS SECTION,Active
+HLTH INS                                                    ,HEALTH INSURANCE SECTION,Active
+HOMLESS                                                     ,NA,Inactive
+HOMLESS                                                     ,NA,Inactive
+HOSS                                                        ,NA,Inactive
+HOST NEG                                                    ,SID HOSTAGE NEGOTIATION TEAM,Active
+HOU                                                         ,NA,Inactive
+HQ CUST                                                     ,NA,Inactive
+HQ SEC                                                      ,HEADQUARTERS SECURITY UNIT,Active
+HSG BUR                                                     ,NA,Inactive
+HWY 01                                                      ,HIGHWAY UNIT NO 1,Active
+HWY 02                                                      ,HIGHWAY UNIT NO 2,Active
+HWY 03                                                      ,HIGHWAY UNIT NO 3,Active
+HWY 04                                                      ,NA,Inactive
+HWY 05                                                      ,NA,Inactive
+HWY 5                                                       ,HIGHWAY UNIT 5,Active
+HWY CIS                                                     ,HWY DST COLLISION INV SQD,Active
+HWY DIST                                                    ,HIGHWAY DISTRICT,Active
+HWY DST                                                     ,NA,Inactive
+HWY DST CTG                                                 ,HWY DIST COLLISION TECH GROUP,Active
+HWY DST STS                                                 ,HIGHWAY DISTRICT SPECIALIZED TRAINING SCHOOL,Active
+I T B                                                       ,NA,Inactive
+I T S D                                                     ,NA,Inactive
+I.A.B.                                                      ,NA,Inactive
+IAB                                                         ,INTERNAL AFFAIRS BUREAU,Active
+IAB ADMIN                                                   ,IAB ADMINISTRATION,Active
+IAB CMD CTR                                                 ,IAB COMMAND CENTER,Active
+IAB CRIM INV                                                ,IAB CRIMINAL INVESTIGATIONS,Active
+IAB GRP 1                                                   ,IAB GROUP 1,Active
+IAB GRP 10                                                  ,IAB GROUP 10,Active
+IAB GRP 12                                                  ,IAB GROUP 12,Active
+IAB GRP 21                                                  ,IAB GROUP 21,Active
+IAB GRP 22                                                  ,IAB GROUP 22,Active
+IAB GRP 26                                                  ,IAB GROUP 26,Active
+IAB GRP 27                                                  ,IAB GROUP 27,Active
+IAB GRP 31                                                  ,IAB GROUP 31,Active
+IAB GRP 32                                                  ,IAB GROUP 32,Active
+IAB GRP 33                                                  ,IAB GROUP 33,Active
+IAB GRP 34                                                  ,IAB GROUP 34,Active
+IAB GRP 41                                                  ,IAB GROUP 41,Active
+IAB GRP 42                                                  ,IAB GROUP 42,Active
+IAB GRP 52                                                  ,IAB GROUP 52,Active
+IAB GRP 53                                                  ,IAB GROUP 53,Active
+IAB GRP 54                                                  ,IAB GROUP 54,Active
+IAB GRP 56                                                  ,IAB GROUP 56,Active
+IAB GRP 9                                                   ,IAB GROUP 9,Active
+IAB RESOURCE                                                ,IAB RESOURCES,Active
+IAB SPEC OPS                                                ,IAB SPECIAL OPERATIONS,Active
+IAB Z1                                                      ,IAB ZONE 1,Active
+IAB Z2                                                      ,IAB ZONE 2,Active
+IAB Z3                                                      ,IAB ZONE 3,Active
+ID SECT                                                     ,IDENTIFICATION SECTION,Active
+ID THEFT SQD                                                ,IDENTITY THEFT SQUAD,Active
+IG COORD UNIT                                               ,INSP GENERAL COORD UNIT,Active
+INSRVTR                                                     ,NA,Inactive
+INSUPDV                                                     ,NA,Inactive
+INT BUR                                                     ,NA,Inactive
+INT CIS                                                     ,CRIMINAL INTELLIGENCE SECTION,Active
+INT CIS                                                     ,NA,Inactive
+INT DIV                                                     ,NA,Inactive
+INT EPU                                                     ,EXECUTIVE PROTECTION UNIT,Active
+INT FIO PRG                                                 ,INTEL CIS FIO PROGRAM,Active
+INT MSS                                                     ,NA,Inactive
+INT OAS                                                     ,NA,Inactive
+INT PSS                                                     ,NA,Inactive
+INT RIC                                                     ,NA,Inactive
+INT RIS                                                     ,NA,Inactive
+INT SDU                                                     ,SENSITIVE DATA UNIT,Active
+INT UOU                                                     ,UNIFORMED OPERATIONS UNIT,Active
+INTEL BUR                                                   ,INTELLIGENCE BUREAU,Active
+INTEL INV                                                   ,INTELLIGENCE BUREAU INVESTIGATIONS UNIT,Active
+INV REVIEW                                                  ,COD INVESTIGATION REVIEW SECTION,Active
+INV SUP                                                     ,INVESTIGATIVE SUPPORT SECTION,Active
+IT PRGM MGMT                                                ,IT PROGRAM MANAGEMENT,Active
+ITB                                                         ,INFORMATION TECHNOLOGY BUREAU,Active
+ITB ADM DIV                                                 ,ITB ADMINISTRATIVE DIVISION,Active
+ITB INV                                                     ,ITB INVESTIGATIONS UNIT,Active
+ITSD                                                        ,INFO TECHNOLOGY SERVICES DIV,Active
+JB/R/TF                                                     ,JOINT BANK ROB T/F,Active
+JFK TF                                                      ,CEIS JFK TASK FORCE,Active
+JOINT ORG CRM TF                                            ,CEIS JOINT ORGANIZED CRIME TASK FORCE,Active
+JT T/F                                                      ,NA,Inactive
+JTTF                                                        ,JOINT TERRORIST TASK FORCE,Active
+JUV CRM                                                     ,JUVENILE CRIME SECTION,Active
+L S S D                                                     ,NA,Inactive
+L.I.M.S                                                     ,LEAVE INTEGRITY MGT. SECTION,Active
+LAB EVID&SECTY                                              ,LAB EVIDENCE CTRL & SECURITY,Active
+LAB FIREARMS                                                ,POL LAB FIREARMS ANALYSIS SEC,Active
+LATE PTRL TD 2                                              ,ATU LATE TOUR PATROL TD 2,Active
+LB BWC LU                                                   ,LB BODY WORN CAMERA LEGAL UNIT,Active
+LB PALS                                                     ,POLICE ACTION LITIGATION SECTION,Active
+LDS DEV                                                     ,NA,Inactive
+LDS TRN                                                     ,NA,Inactive
+LEADER TRN                                                  ,LEADERSHIP TRAINING SECTION,Active
+LEG BUR                                                     ,LEGAL BUREAU,Active
+LIC DIV                                                     ,LICENSE DIVISION,Active
+LMSI PMO                                                    ,LMSI PROJECT MANAGEMENT OFFICE,Active
+LSSD                                                        ,LIFE-SAFETY SYSTEMS DIVISION,Active
+M CHILD                                                     ,MANHATTAN CHILD ABUSE SQUAD,Active
+M COURT                                                     ,MAN COURT SECTION,Active
+M E L D                                                     ,NA,Inactive
+M I S D                                                     ,NA,Inactive
+M SVS                                                       ,MANHATTAN SPECIAL VICTIMS SQUAD,Active
+M TRANS RB SQD                                              ,MANHATTAN TRANSIT ROBBERY SQD,Active
+M WARRANT SQD                                               ,MANHATTAN WARRANT SQD,Active
+M/N-NE                                                      ,NA,Inactive
+M/N-NW                                                      ,NA,Inactive
+M/S-DND                                                     ,NA,Inactive
+M/S-ND                                                      ,NA,Inactive
+MAH IMP                                                     ,NA,Inactive
+MAILDIS                                                     ,NA,Inactive
+MAJOR INV SQD                                               ,CEIS MAJOR INVESTIGATION SQUAD,Active
+MAN CT                                                      ,NA,Inactive
+MB SSZC                                                     ,NA,Inactive
+MB SSZN                                                     ,NA,Inactive
+MC/SQD                                                      ,MAJOR CASE SQUAD,Active
+MCS CHILD EXP                                               ,NYPD/FBI CHILD EXPL & HTTF,Active
+MCS HUMAN TR                                                ,HUMAN TRAFFICKING UNIT,Active
+MED DIV                                                     ,MEDICAL DIVISION,Active
+MELD                                                        ,MILITARY & EXTENDED LEAVE DESK,Active
+MGMT ANL                                                    ,MANAGEMENT ANALYSIS SECTION,Active
+MN CRIME ANL                                                ,MN CRIME ANALYSIS UNIT,Active
+MN GRAND LARC                                               ,MANHATTAN NORTH GRAND LARCENY SQD,Active
+MN IRT                                                      ,NA,Inactive
+MN OP NIGHT                                                 ,MANHATTAN NORTH OPER NIGHT WATCH,Active
+MN SU AC                                                    ,MN ANTI-CRIME UNIT,Active
+MN SU ALU                                                   ,MN AUTO LARCENY UNIT,Active
+MN SU ECT                                                   ,MN EVIDENCE COLLECTION TEAM,Active
+MN VICE                                                     ,MANHATTAN NORTH VICE MODULE,Active
+MNROBSQ                                                     ,MANH ROBBERY SQUAD,Active
+MODS                                                        ,MGMT ORDERS & DIRECTIVES SECTION,Active
+MONEY LAUND                                                 ,CEIS MONEY LAUNDERING UNIT,Active
+MOUNTED                                                     ,MOUNTED UNIT,Active
+MP SQD                                                      ,MISSING PERSONS SQUAD,Active
+MS CRIME ANL                                                ,MS CRIME ANALYSIS UNIT,Active
+MS GRAND LARC                                               ,MANHATTAN SOUTH GRAND LARCENY SQD,Active
+MS OP NIGHT                                                 ,MANHATTAN SOUTH OPER NIGHT WATCH,Active
+MS SU BLARE                                                 ,MS BLARE TEAM,Active
+MS SU ECT                                                   ,MS EVIDENCE COLLECTION TEAM,Active
+MS TIMES SQ                                                 ,TIMES SQUARE UNIT,Active
+MS VICE                                                     ,MANHATTAN SOUTH VICE MODULE,Active
+MTN DET                                                     ,MTN DET SQUAD,Active
+MTN PCT                                                     ,018 PCT-MIDTOWN NO. PCT,Active
+MTS DET                                                     ,MTS DET SQUAD,Active
+MTS PCT                                                     ,014 PCT-MIDTOWN SO. PCT,Active
+MUNI SECUR                                                  ,MUNICIPAL SECURITY SECTION,Active
+NAR DIV                                                     ,NA,Inactive
+NARC SI                                                     ,NARC BORO STATEN ISLAND,Active
+NARCBBN                                                     ,NARC BORO BROOKLYN NORTH,Active
+NARCBBS                                                     ,NARC BORO BROOKLYN SOUTH,Active
+NARCBBX                                                     ,NARC BORO BRONX,Active
+NARCBMN                                                     ,NARC BORO MANHATTAN NORTH,Active
+NARCBMS                                                     ,NARC BORO MANHATTAN SOUTH,Active
+NARCBQN                                                     ,NARC BORO QUEENS NORTH,Active
+NARCBQS                                                     ,NARC BORO QUEENS SOUTH,Active
+NARCBSI                                                     ,NA,Inactive
+NARCO CANINE                                                ,NARCOTICS CANINE UNIT,Active
+NBBN MAJOR                                                  ,NARC BORO BROOKLYN NORTH MAJOR CASE UNIT,Active
+NBBN NITRO                                                  ,NARC BORO BROOKLYN NORTH NITRO,Active
+NBBN ZN 15                                                  ,NARC BORO BROOKLYN NORTH ZONE 15,Active
+NBBS MAJOR                                                  ,NARC BORO BROOKLYN SOUTH MAJOR CASE UNIT,Active
+NBBX MAJOR                                                  ,NARC BORO BRONX MAJOR CASE UNIT,Active
+NBBX ZN 8                                                   ,NARC BORO BRONX ZONE 8,Active
+NBMN MAJOR                                                  ,NARC BORO MANHATTAN NORTH MAJOR CASE UNIT,Active
+NBMS MAJOR                                                  ,NARC BORO MANHATTAN SOUTH MAJOR CASE UNIT,Active
+NBQN MAJOR                                                  ,NARC BORO QUEENS NORTH MAJOR CASE UNIT,Active
+NBQS MAJOR                                                  ,NARC BORO QUEENS SOUTH MAJOR CASE UNIT,Active
+NBQS ZN 17                                                  ,NARC BORO QUEENS SOUTH ZONE 17,Active
+NBQS ZN 24                                                  ,NARC BORO QUEENS SOUTH ZONE 24,Active
+NBSI MAJOR                                                  ,NARC BORO STATEN ISLAND MAJOR CASE UNIT,Active
+ND BKSI                                                     ,NA,Inactive
+ND BXCI                                                     ,NA,Inactive
+ND BXSI                                                     ,NA,Inactive
+ND CH I                                                     ,NA,Inactive
+ND EH I                                                     ,NA,Inactive
+ND NMI                                                      ,NA,Inactive
+ND Q/NI                                                     ,NA,Inactive
+ND SEQI                                                     ,NA,Inactive
+ND SI I                                                     ,NA,Inactive
+NYPDFBI FCTF                                                ,NYPD/FBI FINANCIAL CRIMES TF,Active
+O C C B                                                     ,NA,Inactive
+O C I D                                                     ,NA,Inactive
+O M A P                                                     ,NA,Inactive
+O T S D                                                     ,NA,Inactive
+O.E.M.                                                      ,NA,Inactive
+OCDE-SF                                                     ,NA,Inactive
+OCME LIAISON                                                ,OCME LIAISON UNIT,Active
+OEEO                                                        ,NA,Inactive
+OFF CSO                                                     ,NA,Inactive
+OFF DCSI                                                    ,OFFICE OF THE DEP COMM STRATEGIC INITIATIVES,Active
+OFF I/T                                                     ,NA,Inactive
+OFF OPS BUR                                                 ,OFFICE OF THE OPERATIONS BUREAU,Active
+OFF SUPV CH SRG                                             ,OFFICE SUPV CHIEF SURGEON,Active
+OFF/L R                                                     ,NA,Inactive
+OFF/TRP                                                     ,NA,Inactive
+OFFICE CCCS                                                 ,OFFICE OF THE CHIEF CRIME CONTROL STRATEGIES,Active
+OFFICE DCEI                                                 ,OFFICE OF THE DEP COMM EQUITY & INCLUSION,Active
+OFFICE DCT                                                  ,OFFICE OF THE DEP COMM TRIALS,Active
+OFFICE PB                                                   ,OFFICE OF THE CHIEF OF PERSONNEL,Active
+OFFICE PSB                                                  ,OFFICE OF PATROL SERVICES BUREAU,Active
+OFFICE RMB                                                  ,OFFICE OF THE RISK MANAGEMENT BUREAU,Active
+OFFICE TRANSIT                                              ,OFFICE OF THE CHIEF OF TRANSIT,Active
+OFFICE TRNG                                                 ,OFFICE OF THE CHIEF OF TRAINING,Active
+OFFICE TRP                                                  ,OFFICE OF THE CHIEF OF TRANSPORTATION,Active
+OFSCSRG                                                     ,NA,Inactive
+OMAP                                                        ,OFFICE OF MGMT ANALYSIS & PLANNING,Active
+OPD                                                         ,OFFICE OF PROFESSIONAL DEVELOPMENT,Active
+OPER RSRCH                                                  ,OPERATIONS RESEARCH SECTION,Active
+OPER&ANALYSIS                                               ,OPERATIONS & ANALYSIS SECTION,Active
+OPS BUR                                                     ,OPERATIONS BUREAU,Active
+OPS EM PREP                                                 ,EMERGENCY PREP & EXERCISE SECTION,Active
+OPS EPE                                                     ,NA,Inactive
+OPS TSU                                                     ,OPS TECHNICAL SUPPORT UNIT,Active
+OPS UN                                                      ,NA,Inactive
+OPS UNIT                                                    ,OPERATIONS UNIT,Active
+ORG THEFT SQD                                               ,ORGANIZED THEFT SQUAD,Active
+P A T U                                                     ,NA,Inactive
+P C C U                                                     ,NA,Inactive
+P C O                                                       ,NA,Inactive
+P S B                                                       ,PATROL SERVICES BUREAU,Active
+P.E.R.L                                                     ,NA,Inactive
+PA SITE&SECUR                                               ,PA SITE & SECURITY UNIT,Active
+PA UPTU                                                     ,NA,Inactive
+PAY SEC                                                     ,NA,Inactive
+PAY&BEN                                                     ,PAYROLL & BENEFITS DIVISION,Active
+PB                                                          ,PERSONNEL BUREAU,Active
+PB CAD                                                      ,CANDIDATE ASSESSMENT DIVISION,Active
+PB CAD                                                      ,NA,Inactive
+PB CAS                                                      ,NA,Inactive
+PB EMD                                                      ,NA,Inactive
+PB ERS                                                      ,NA,Inactive
+PB HCD                                                      ,NA,Inactive
+PB HRD                                                      ,HUMAN RESOURCES DIVISION,Active
+PB INV                                                      ,PB INVESTIGATIONS UNIT,Active
+PB PAID DTL                                                 ,PB PAID DETAIL UNIT,Active
+PB POD                                                      ,NA,Inactive
+PB POS                                                      ,NA,Inactive
+PB REC                                                      ,NA,Inactive
+PB SAS                                                      ,NA,Inactive
+PBBN                                                        ,PATROL BORO BKLYN NORTH,Active
+PBBN AC                                                     ,NA,Inactive
+PBBN INV UNIT                                               ,PBBN INVESTIGATIONS UNIT,Active
+PBBN SC                                                     ,NA,Inactive
+PBBN SCOOTER                                                ,PBBN SCOOTER TASK FORCE,Active
+PBBN SECURITY                                               ,PBBN SECURITY DETAIL,Active
+PBBN SU                                                     ,NA,Inactive
+PBBN SU PST                                                 ,PBBN PUBLIC SAFETY TEAMS,Active
+PBBN TF                                                     ,NA,Inactive
+PBBS                                                        ,PATROL BORO BKLYN SOUTH,Active
+PBBS AC                                                     ,NA,Inactive
+PBBS INV                                                    ,PBBS INVESTIGATIONS,Active
+PBBS SC                                                     ,NA,Inactive
+PBBS SU                                                     ,NA,Inactive
+PBBS SU PST                                                 ,PBBS PUBLIC SAFETY TEAMS,Active
+PBBS TF                                                     ,NA,Inactive
+PBBX                                                        ,PATROL BORO BRONX,Active
+PBBX AC                                                     ,NA,Inactive
+PBBX INV UNIT                                               ,PBBX INVESTIGATIONS UNIT,Active
+PBBX SC                                                     ,NA,Inactive
+PBBX SU                                                     ,NA,Inactive
+PBBX SU PST                                                 ,PBBX PUBLIC SAFETY TEAMS,Active
+PBBX TF                                                     ,NA,Inactive
+PBBX YANKEE                                                 ,YANKEE STADIUM DETAIL,Active
+PBBX ZOO                                                    ,BRONX ZOO DETAIL,Active
+PBMN                                                        ,PATROL BORO MAN NORTH,Active
+PBMN AC                                                     ,NA,Inactive
+PBMN INV UNIT                                               ,PBMN INVESTIGATIONS UNIT,Active
+PBMN SC                                                     ,NA,Inactive
+PBMN SCOOT                                                  ,PBMN SCOOTER TASK FORCE,Active
+PBMN SU                                                     ,PBMN SPECIALIZED UNITS,Active
+PBMN SU PST                                                 ,PBMN PUBLIC SAFETY TEAMS,Active
+PBMN TF                                                     ,NA,Inactive
+PBMS                                                        ,PATROL BORO MAN SOUTH,Active
+PBMS AC                                                     ,NA,Inactive
+PBMS INV                                                    ,PBMS INVESTIGATIONS UNIT,Active
+PBMS SC                                                     ,NA,Inactive
+PBMS SCOOTER                                                ,PBMS SCOOTER TASK FORCE,Active
+PBMS SU                                                     ,PBMS SPECIALIZED UNITS,Active
+PBMS SU PST                                                 ,PBMS PUBLIC SAFETY TEAMS,Active
+PBMS TF                                                     ,NA,Inactive
+PBQ/N                                                       ,NA,Inactive
+PBQ/S                                                       ,NA,Inactive
+PBQN                                                        ,PATROL BORO QUEENS NORTH,Active
+PBQN AC                                                     ,NA,Inactive
+PBQN CITI FLD                                               ,PBQN CITI FIELD DETAIL,Active
+PBQN INV UNIT                                               ,PBQN INVESTIGATIONS UNIT,Active
+PBQN SC                                                     ,NA,Inactive
+PBQN SU                                                     ,NA,Inactive
+PBQN SU PST                                                 ,PBQN PUBLIC SAFETY TEAMS,Active
+PBQNT/F                                                     ,NA,Inactive
+PBQS                                                        ,PATROL BORO QUEENS SOUTH,Active
+PBQS AC                                                     ,NA,Inactive
+PBQS INV UNIT                                               ,PBQS INVESTIGATIONS UNIT,Active
+PBQS SC                                                     ,NA,Inactive
+PBQS SU                                                     ,NA,Inactive
+PBQS SU PST                                                 ,PBQS PUBLIC SAFETY TEAMS,Active
+PBQST/F                                                     ,NA,Inactive
+PBSI                                                        ,PATROL BORO STATEN ISLAND,Active
+PBSI AC                                                     ,NA,Inactive
+PBSI DO                                                     ,NA,Inactive
+PBSI INV UNIT                                               ,PBSI INVESTIGATIONS UNIT,Active
+PBSI SU                                                     ,NA,Inactive
+PBSI SU FERRY                                               ,PBSI FERRY SECURITY UNIT,Active
+PBSI SU PST                                                 ,PBSI PUBLIC SAFETY TEAMS,Active
+PBSI TF                                                     ,NA,Inactive
+PCO                                                         ,POLICE COMMISSIONER,Active
+PCO C U                                                     ,NA,Inactive
+PCO L U                                                     ,NA,Inactive
+PCO QAD                                                     ,NA,Inactive
+PCO RTC                                                     ,NA,Inactive
+PEN SEC                                                     ,NA,Inactive
+PER BUR                                                     ,NA,Inactive
+PHOTO-U                                                     ,PHOTO UNIT,Active
+PI&REQ                                                      ,NA,Inactive
+PLT MGT                                                     ,NA,Inactive
+POD                                                         ,PERSONNEL ORDERS DIVISION,Active
+POL ACAD                                                    ,POLICE ACADEMY,Active
+POL ACD                                                     ,NA,Inactive
+POL LAB                                                     ,POLICE LABORATORY,Active
+POL PEN                                                     ,NA,Inactive
+POL PENSION                                                 ,POLICE PENSION FUND,Active
+PRINTS                                                      ,NA,Inactive
+PROP CLK                                                    ,PROPERTY CLERK DIV,Active
+PROPCLK                                                     ,NA,Inactive
+PSA 1                                                       ,HOUSING PSA 1,Active
+PSA 2                                                       ,HOUSING PSA 2,Active
+PSA 3                                                       ,HOUSING PSA 3,Active
+PSA 4                                                       ,HOUSING PSA 4,Active
+PSA 5                                                       ,HOUSING PSA 5,Active
+PSA 6                                                       ,HOUSING PSA 6,Active
+PSA 7                                                       ,HOUSING PSA 7,Active
+PSA 8                                                       ,HOUSING PSA 8,Active
+PSA 9                                                       ,HOUSING PSA 9,Active
+PSA 9 JRIP                                                  ,PSA 9 JUVENILE ROB INTERV PRGM,Active
+PSA1 VIPER13                                                ,PSA 1 VIPER 13,Active
+PSA2 VIPER2                                                 ,PSA 2 VIPER 2,Active
+PSA4 VIPER6                                                 ,PSA 4 VIPER 6,Active
+PSA5 VIPER12                                                ,PSA 5 VIPER 12,Active
+PSA6 VIPER1                                                 ,PSA 6 VIPER 1,Active
+PSA7 VIPER11                                                ,PSA 7 VIPER 11,Active
+PSA8 VIPER4                                                 ,PSA 8 VIPER 4,Active
+PSA9 VIPER3                                                 ,PSA 9 VIPER 3,Active
+PSAC II SEC                                                 ,PSAC II SECURITY,Active
+PSB IES                                                     ,INVESTIGATION & EVALUATION SECT,Active
+PSB NPASU                                                   ,PSB NBHD POLICING ANALYSIS & SUPP UNIT,Active
+PSB RMS                                                     ,RESOURCE MANAGEMENT SECTION,Active
+PUBLIC SECUR                                                ,PUBLIC SECURITY SECTION,Active
+Q CHILD                                                     ,QUEENS CHILD ABUSE SQUAD,Active
+Q COURT                                                     ,QNS COURT SECTION,Active
+Q NIGHT WATCH                                               ,QUEENS NIGHT WATCH,Active
+Q SVS                                                       ,QUEENS SPECIAL VICTIMS SQUAD,Active
+Q WARRANT SQD                                               ,QUEENS WARRANT SQD,Active
+Q/N-ND                                                      ,NA,Inactive
+Q/S-ND                                                      ,NA,Inactive
+QA DCSI                                                     ,NA,Inactive
+QAD 1DC                                                     ,NA,Inactive
+QAD DIU                                                     ,QAD DATA INTEGRITY UNIT,Active
+QB SSZC                                                     ,NA,Inactive
+QB SSZN                                                     ,NA,Inactive
+QDA CIU                                                     ,NA,Inactive
+QM SEC                                                      ,QUARTERMASTER SECTION,Active
+QN CRIME ANL                                                ,QN CRIME ANALYSIS UNIT,Active
+QN GRAND LARC                                               ,QUEENS NORTH GRAND LARCENY SQD,Active
+QN SU ALU                                                   ,QN AUTO LARCENY UNIT,Active
+QN SU ECT                                                   ,QN EVIDENCE COLLECTION TEAM,Active
+QN TRANSIT ROB                                              ,QUEENS TRANSIT ROBBERY SQUAD,Active
+QN VICE                                                     ,QUEENS NORTH VICE MODULE,Active
+QNROBSQ                                                     ,QUEENS ROBBERY SQUAD,Active
+QNS CT                                                      ,NA,Inactive
+QS CRIME ANL                                                ,QS CRIME ANALYSIS UNIT,Active
+QS GANG                                                     ,NA,Inactive
+QS GRAND LARC                                               ,QUEENS SOUTH GRAND LARCENY SQD,Active
+QS HOMICIDE                                                 ,QUEENS SOUTH OPER HOMICIDE SQD,Active
+QS IRT                                                      ,NA,Inactive
+QS NARC                                                     ,NA,Inactive
+QS SU ECT                                                   ,QS EVIDENCE COLLECTION TEAM,Active
+QS VICE                                                     ,QUEENS SOUTH VICE MODULE,Active
+R M D                                                       ,RISK MITIGATION DIVISION,Active
+REC SEC                                                     ,NA,Inactive
+REC TNG                                                     ,NA,Inactive
+RM BUR                                                      ,NA,Inactive
+RMB                                                         ,RISK MANAGEMENT BUREAU,Active
+RMB BODY CAM                                                ,RMB CD BODY WORN CAMERA UNIT,Active
+RMB CD                                                      ,COMPLIANCE DIVISION,Active
+RMB QAD                                                     ,QUALITY ASSURANCE DIVISION,Active
+RMB QAD AUD MGT                                             ,RMB QAD AUDIT MANAGEMENT UNIT,Active
+RMB TRAINING                                                ,RMB TRAINING UNIT,Active
+RMD PAS                                                     ,PERFORMANCE ANALYSIS SEC,Active
+RTC FACIAL ID                                               ,RTCC FACIAL IDENTIFICATION SEC,Active
+RTC JUV CRM                                                 ,RTCC JUVENILE CRIME DESK,Active
+RTCC                                                        ,REAL TIME CRIME CENTER,Active
+RTCC INV SUPP                                               ,RTCC INVESTIGATIVE SUPPORT SEC,Active
+RTCC SMART                                                  ,RTCC SOCIAL MEDIA ANALYSIS & RESEARCH TEAM,Active
+RTS ADM                                                     ,RTS ADMIN STAFF,Active
+RTS RECRUIT                                                 ,RTS RECRUITS,Active
+S O D                                                       ,NA,Inactive
+S P I S                                                     ,NA,Inactive
+S S B                                                       ,NA,Inactive
+S T D                                                       ,NA,Inactive
+S.I. CT                                                     ,NA,Inactive
+SAT B/N                                                     ,NA,Inactive
+SAT QS                                                      ,NA,Inactive
+SATDOPS                                                     ,NA,Inactive
+SATHOPS                                                     ,NA,Inactive
+SATNOPS                                                     ,NA,Inactive
+SCUBA UNIT                                                  ,SCUBA UNIT,Active
+SHIELD & ID                                                 ,"SHIELD, ID, & UNIFORMED SERVICES UNIT",Active
+SI COURT                                                    ,STATEN ISLAND COURT SECTION,Active
+SI CRIME ANL                                                ,SI CRIME ANALYSIS UNIT,Active
+SI DO                                                       ,NA,Inactive
+SI EMER                                                     ,NA,Inactive
+SI GRAND LARC                                               ,STATEN ISLAND GRAND LARCENY SQD,Active
+SI HOMICIDE                                                 ,STATEN ISLAND OPER HOMICIDE SQD,Active
+SI HWYP                                                     ,NA,Inactive
+SI IRT                                                      ,NA,Inactive
+SI OP NIGHT                                                 ,STATEN ISLAND OPER NIGHT WATCH,Active
+SI SCSU                                                     ,NA,Inactive
+SI SU ECT                                                   ,SI EVIDENCE COLLECTION TEAM,Active
+SI SVS                                                      ,STATEN ISLAND SPECIAL VICTIMS SQUAD,Active
+SIHU                                                        ,NA,Inactive
+SOD HOU                                                     ,NA,Inactive
+SOD SRG                                                     ,NA,Inactive
+SOD T/U                                                     ,NA,Inactive
+SP FRDS                                                     ,SPECIAL FRAUDS SQUAD,Active
+SP INV                                                      ,NA,Inactive
+SPL TRN                                                     ,SPECIALIZED TRAINING SECTION,Active
+SPORTS UNIT                                                 ,H&WELL SPORTS UNIT,Active
+SPRING 3100                                                 ,SPRING 3100,Active
+SRG                                                         ,STRATEGIC RESPONSE GROUP,Active
+SRG 04                                                      ,STRATEGIC RESP GRP 4 QUEENS,Active
+SRG 05                                                      ,STRATEGIC RESP GRP 5 SI,Active
+SRG 1                                                       ,STRATEGIC RESP GRP 1 MANHATTAN,Active
+SRG 2                                                       ,STRATEGIC RESP GRP 2 BRONX,Active
+SRG 3                                                       ,STRATEGIC RESP GRP 3 BROOKLYN,Active
+SRG 4                                                       ,NA,Inactive
+SRG 5                                                       ,NA,Inactive
+SS DIV                                                      ,SCHOOL SAFETY DIVISION,Active
+SS INV                                                      ,NA,Inactive
+SS MBZ                                                      ,NA,Inactive
+SS QBSZ                                                     ,NA,Inactive
+SSB                                                         ,SUPPORT SERVICES BUREAU,Active
+SSB INV                                                     ,SSB INVESTIGATIONS UNIT,Active
+SSD INV                                                     ,SSD INVESTIGATIONS UNIT,Active
+STAFFSV                                                     ,NA,Inactive
+STD                                                         ,STRATEGIC TECHNOLOGY DIVISION,Active
+STR FOR                                                     ,NA,Inactive
+STR FORCE                                                   ,STRIKE FORCE,Active
+SVD DATA ANL                                                ,SVD DATA ANALYSIS GROUP,Active
+SVD DNA COLD                                                ,DNA COLD CASE SQUAD,Active
+SVD IRTU                                                    ,SVD INSTANT RESPONSE TRK UNIT,Active
+SVD LIAISON                                                 ,SVD LIAISON UNIT,Active
+SVD NIGHT                                                   ,SVD NIGHT WATCH,Active
+SVD SOMU                                                    ,SEX OFFENDER MONITORING UNIT,Active
+SVD STRANGER                                                ,STRANGER RAPE COLD CASE SQUAD,Active
+SVD Z1                                                      ,SPECIAL VICTIMS DIV ZONE 1,Active
+SVD Z2                                                      ,NA,Inactive
+SVD Z3                                                      ,SPECIAL VICTIMS DIV ZONE 3,Active
+T.A.R.U                                                     ,NA,Inactive
+TARU                                                        ,TECH. ASSIST. & RESPONSE UNIT,Active
+TAXI SQ                                                     ,NA,Inactive
+TAXI UT                                                     ,NA,Inactive
+TB                                                          ,TRANSIT BUREAU,Active
+TB ATER                                                     ,NA,Inactive
+TB ATU                                                      ,TB ANTI TERRORISM UNIT,Active
+TB BK                                                       ,TRANSIT BORO BROOKLYN,Active
+TB BK TF                                                    ,TRANSIT BORO BKLYN TASK FORCE,Active
+TB BKTF                                                     ,NA,Inactive
+TB BQTF                                                     ,NA,Inactive
+TB BX                                                       ,NA,Inactive
+TB BX QNS                                                   ,TRANSIT BORO BRONX/QUEENS,Active
+TB BX QNS TF                                                ,TRANSIT BORO BX/QNS TASK FORCE,Active
+TB BX/Q                                                     ,NA,Inactive
+TB BXTF                                                     ,NA,Inactive
+TB C/AN                                                     ,NA,Inactive
+TB CAN                                                      ,NA,Inactive
+TB CRM ANLYS                                                ,TRANSIT BUREAU CRIME ANALYSIS,Active
+TB CW VTF                                                   ,TB CITYWIDE VANDALS TASK FORCE,Active
+TB DT01                                                     ,NA,Inactive
+TB DT02                                                     ,NA,Inactive
+TB DT03                                                     ,NA,Inactive
+TB DT04                                                     ,NA,Inactive
+TB DT11                                                     ,NA,Inactive
+TB DT12                                                     ,NA,Inactive
+TB DT20                                                     ,NA,Inactive
+TB DT23                                                     ,NA,Inactive
+TB DT30                                                     ,NA,Inactive
+TB DT32                                                     ,NA,Inactive
+TB DT33                                                     ,NA,Inactive
+TB DT34                                                     ,NA,Inactive
+TB H/O                                                      ,NA,Inactive
+TB INV                                                      ,TB INVESTIGATIONS UNIT,Active
+TB K9                                                       ,TB CANINE UNIT,Active
+TB LIAISON                                                  ,TRANSIT AUTHORITY LIAISON,Active
+TB LIAS                                                     ,NA,Inactive
+TB M                                                        ,TRANSIT BORO MANHATTAN,Active
+TB M TIMES SQ                                               ,TB MANHATTAN TF TIMES SQ INITIATIVE,Active
+TB M/TF                                                     ,NA,Inactive
+TB MAN TF                                                   ,TRANSIT BORO MAN TASK FORCE,Active
+TB MANH                                                     ,NA,Inactive
+TB Q/TF                                                     ,NA,Inactive
+TB QNS                                                      ,NA,Inactive
+TB RESP                                                     ,NA,Inactive
+TB SIU                                                      ,NA,Inactive
+TB SOD                                                      ,TB SPECIAL OPERATIONS DISTRICT,Active
+TB SOU                                                      ,NA,Inactive
+TB VAND                                                     ,NA,Inactive
+TB VTF                                                      ,NA,Inactive
+TC PED                                                      ,NA,Inactive
+TD 01 LTP                                                   ,ATU LATE TOUR PATROL TD 1,Active
+TD 1                                                        ,TRANSIT DISTRICT 1,Active
+TD 11                                                       ,TRANSIT DISTRICT 11,Active
+TD 12                                                       ,TRANSIT DISTRICT 12,Active
+TD 2                                                        ,TRANSIT DISTRICT 2,Active
+TD 20                                                       ,TRANSIT DISTRICT 20,Active
+TD 23                                                       ,TRANSIT DISTRICT 23,Active
+TD 3                                                        ,TRANSIT DISTRICT 3,Active
+TD 30                                                       ,TRANSIT DISTRICT 30,Active
+TD 32                                                       ,TRANSIT DISTRICT 32,Active
+TD 33                                                       ,TRANSIT DISTRICT 33,Active
+TD 34                                                       ,TRANSIT DISTRICT 34,Active
+TD 4                                                        ,TRANSIT DISTRICT 4,Active
+TD C/AN                                                     ,NA,Inactive
+TD DT01                                                     ,NA,Inactive
+TD DT02                                                     ,NA,Inactive
+TD DT03                                                     ,NA,Inactive
+TD DT04                                                     ,NA,Inactive
+TD DT11                                                     ,NA,Inactive
+TD DT12                                                     ,NA,Inactive
+TD DT20                                                     ,NA,Inactive
+TD DT23                                                     ,NA,Inactive
+TD DT30                                                     ,NA,Inactive
+TD DT32                                                     ,NA,Inactive
+TD DT33                                                     ,NA,Inactive
+TD DT34                                                     ,NA,Inactive
+TD H/O                                                      ,NA,Inactive
+TD INV                                                      ,NA,Inactive
+TD SOU                                                      ,NA,Inactive
+TD VAND                                                     ,NA,Inactive
+TEL ANALYSIS                                                ,TELEPHONE ANALYSIS UNIT,Active
+TNG UNT                                                     ,NA,Inactive
+TR/BKTF                                                     ,NA,Inactive
+TR/BXTF                                                     ,NA,Inactive
+TR/QTF                                                      ,NA,Inactive
+TR/STED                                                     ,NA,Inactive
+TRAFF ENF DIST                                              ,TRAFFIC ENFORCEMENT DISTRICT,Active
+TRAFF MGMT                                                  ,TRAFFIC MANAGEMENT CENTER,Active
+TRAFF SAFETY                                                ,TRAFFIC SAFETY FORUM UNIT,Active
+TRANSIT SVS                                                 ,SVD TRANSIT SPECIAL VICTIMS SQUAD,Active
+TRB OPS                                                     ,TRP BUR OPERATIONS UNIT,Active
+TRB TED                                                     ,NA,Inactive
+TRB TRF OPS                                                 ,TRAFFIC OPERATIONS DISTRICT,Active
+TRDMRK INFRGMT                                              ,CEIS TRADEMARK INFRINGEMENT UNIT,Active
+TRF CD                                                      ,NA,Inactive
+TRF OPS                                                     ,NA,Inactive
+TRF/MTF                                                     ,NA,Inactive
+TRIG LOCK                                                   ,TRIGGER LOCK UNIT,Active
+TRN BUR                                                     ,TRAINING BUREAU,Active
+TRN BUR INV                                                 ,TRAINING BUREAU INV UNIT,Active
+TRP BUR                                                     ,TRANSPORTATION BUREAU,Active
+TRP BUR INV                                                 ,TRB INVESTIGATIONS UNIT,Active
+TV UNIT                                                     ,MOVIE & TV UNIT,Active
+UPTU                                                        ,UNIFORMED PROMOTIONS TRN UNIT,Active
+VE BK/N                                                     ,NA,Inactive
+VE BSSI                                                     ,NA,Inactive
+VED BX                                                      ,NA,Inactive
+VED M/N                                                     ,NA,Inactive
+VED M/S                                                     ,NA,Inactive
+VED MCS                                                     ,NA,Inactive
+VED Q                                                       ,NA,Inactive
+VED ZN1                                                     ,NA,Inactive
+VED ZN2                                                     ,VICE ENFORCEMENT DIV ZONE 2,Active
+VEHICLE ID                                                  ,VEHICLE IDENTIFICATION UNIT,Active
+VICE                                                        ,VICE ENFORCEMENT DIVISION,Active
+VICE ED                                                     ,NA,Inactive
+VICE MAJOR                                                  ,VICE MAJOR CASE,Active
+WAREHOUSE                                                   ,WAREHOUSE SYSTEM,Active
+WARRSEC                                                     ,WARRANT SECTION,Active
+WTC CMD                                                     ,WORLD TRADE CENTER COMMAND,Active
+YOUTH STRAT                                                 ,YOUTH STRATEGIES DIVISION,Active
+YTH DIV                                                     ,NA,Inactive
+YTH SD                                                      ,NA,Inactive
+YTH SS                                                      ,NA,Inactive

@@ -1,0 +1,75 @@
+﻿Rank Abbreviation,Rank Desc,Record Status
+Unknown                                 ,Unknown,Inactive
+PO                                      ,Police Officer,Active
+POF                                     ,Police Officer,Inactive
+POM                                     ,Police Officer,Inactive
+DET                                     ,Detective,Inactive
+DT                                      ,Detective,Inactive
+DT1                                     ,Detective,Active
+DT2                                     ,Detective,Active
+DT3                                     ,Detective,Active
+DTS                                     ,Detective,Active
+SDS                                     ,Sergeant,Inactive
+SGT                                     ,Sergeant,Active
+SGT DS                                  ,Sergeant,Active
+SGT SA                                  ,Sergeant,Active
+SSA                                     ,Sergeant,Inactive
+LCD                                     ,Lieutenant,Inactive
+LSA                                     ,Lieutenant,Inactive
+LT                                      ,Lieutenant,Active
+LT CD                                   ,Lieutenant,Active
+LT SA                                   ,Lieutenant,Active
+LT.                                     ,Lieutenant,Inactive
+CPT                                     ,Captain,Active
+INS                                     ,Inspector,Inactive
+INSP                                    ,Inspector,Active
+DI                                      ,Deputy Inspector,Active
+AC                                      ,Chiefs and other ranks,Active
+ASCS                                    ,Chiefs and other ranks,Active
+CAD                                     ,Chiefs and other ranks,Inactive
+CAP                                     ,Chiefs and other ranks,Inactive
+CHIEF                                   ,Chiefs and other ranks,Active
+CIV                                     ,Chiefs and other ranks,Inactive
+CMS                                     ,Chiefs and other ranks,Inactive
+COD                                     ,Chiefs and other ranks,Inactive
+DC                                      ,Chiefs and other ranks,Active
+DC SURG                                 ,Chiefs and other ranks,Active
+MPO                                     ,Chiefs and other ranks,Inactive
+PAA                                     ,Chiefs and other ranks,Inactive
+PSA                                     ,Chiefs and other ranks,Inactive
+SURG                                    ,Chiefs and other ranks,Active
+SV CH SURG                              ,Chiefs and other ranks,Active
+T.A                                     ,Chiefs and other ranks,Inactive
+TEA                                     ,Chiefs and other ranks,Inactive
+ASC                                     ,Inactive Ranks,Inactive
+CCA                                     ,Inactive Ranks,Inactive
+CCC                                     ,Inactive Ranks,Inactive
+CD                                      ,Inactive Ranks,Inactive
+CIA                                     ,Inactive Ranks,Inactive
+CLR                                     ,Inactive Ranks,Inactive
+COC                                     ,Inactive Ranks,Inactive
+COH                                     ,Inactive Ranks,Inactive
+COI                                     ,Inactive Ranks,Inactive
+COO                                     ,Inactive Ranks,Inactive
+COP                                     ,Inactive Ranks,Inactive
+COT                                     ,Inactive Ranks,Inactive
+CPB                                     ,Inactive Ranks,Inactive
+CS                                      ,Inactive Ranks,Inactive
+CSO                                     ,Inactive Ranks,Inactive
+CTB                                     ,Inactive Ranks,Inactive
+DCS                                     ,Inactive Ranks,Inactive
+DEY                                     ,Inactive Ranks,Inactive
+DT4                                     ,Inactive Ranks,Inactive
+DT5                                     ,Inactive Ranks,Inactive
+HPD                                     ,Inactive Ranks,Inactive
+HPO                                     ,Inactive Ranks,Inactive
+PA                                      ,Inactive Ranks,Inactive
+PI                                      ,Inactive Ranks,Inactive
+PO`                                     ,Inactive Ranks,Inactive
+PO1                                     ,Inactive Ranks,Inactive
+SCG                                     ,Inactive Ranks,Inactive
+SCS                                     ,Inactive Ranks,Inactive
+SPA                                     ,Inactive Ranks,Inactive
+SRG                                     ,Inactive Ranks,Inactive
+TNT                                     ,Inactive Ranks,Inactive
+TPO                                     ,Inactive Ranks,Inactive
