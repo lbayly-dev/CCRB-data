@@ -1,0 +1,69 @@
+﻿Column Name,Column Definition 
+Tax ID,"This is a unique identifier that differentiates members of service. NYPD Tax IDs are nine digit numbers unique to each officer. While some officers while change shield numbers over the course of their time in the NYPD, Tax IDs are meant to be unique identifiers for each NYPD officer."
+As Of Date_officer,Date that this data was generated. 
+Shield No,"Officer shield number. Only one officer can have a shield number at a time, but they are passed on to a new officer when a past officer is no longer in the service. Only members in the ranks of Police Officer, Detective, and Sergeant are issued shield numbers."
+Officer Last Name,
+Officer First Name,
+Officer Race,Per roster data sent to CCRB
+Officer Gender,Per roster data sent to CCRB
+Current Rank Abbreviation,See Ranks tab for a full explanation of ranks.
+Current Rank,See Ranks tab for a full explanation of ranks.
+Current Command,"Current assignment of officer. For non-abbreviated names of commands, refer to commands table. "
+Complaint Id,Unique identifier for complaint. Assigned by the Civilian Complaint Review Board (CCRB). A single complaint may include multiple allegations between multiple victims / alleged victims and multiple officers.
+Total Complaints,"The total number of complaints involving this officer as a subject, after the year 2000."
+Total Substantiated Complaints,"The total number of substantiated complaints involving this officer as a subject, after the year 2000."
+Complaint Officer Number,Unique ID for each officer per complaint.
+Officer Rank Abbreviation At Incident,See Ranks tab for a full explanation of ranks.
+Officer Rank At Incident,See Ranks tab for a full explanation of ranks.
+Officer Command At Incident,"Assignment of officer at the time of the incident. For non-abbreviated names of commands, refer to commands table. "
+Officer Days On Force At Incident,Total calendar days the individual had been active with NYPD at the time of incident.
+Allegation Record Identity,A single allegation is between one complainant and one officer. This is a unique identifier to differentiate allegations.
+FADO Type,"FADO (Force, Abuse of Authority, Discourtesy or Offensive Language) category of allegation."
+Allegation,Allegation description. See Allegations table for detailed description. 
+Victim/Alleged Victim Age Range At Incident,"For Victim / Alleged Victim privacy, ages are displayed in group ranges. These ranges are selected rationally to populate roughly equally:
+00 < Age <= 10
+10 < Age <= 15
+15 < Age <= 20
+20 < Age <= 25
+25 < Age <= 35
+35 < Age <= 45
+45 < Age <= 55
+55 < Age <= 99"
+Victim/Alleged Victim Gender,"Values for this column:
+N/A
+Male
+Female
+TGNC / Other
+Trans and gender nonconforming categories are grouped to prevent Victim / Alleged Victim identification. Victim / Alleged Victims who do not choose to disclose gender identity are listed as N/A. Investigations that do not progress far enough to obtain this data will have null values."
+Victim / Alleged Victim Race / Ethnicity,"The Victim / Alleged Victim's race, if known. This data is collected directly from Victim / Alleged Victims wherever possible. In some cases this data may be collected elsewhere, such as from the Internal Affairs Bureau or from a complainant rather than the Victim / Alleged Victim themselves, and confirmed with a complainant when possible.
+In October 2022 CCRB redesigned its race categories, and this column will not contain any data prior to that point."
+CCRB Allegation Disposition,CCRB's board disposition for the allegation.
+NYPD Allegation Disposition,NYPD's final disposition on the allegation.
+Incident Date,"Complaint incident date. Some incident dates have only progressed far enough to have determined a year of incident. In cases missing more specific data, calculations (such as officer time on force or Victim / Alleged Victim age) will assume the first day of the month, or the first day of January in cases where only the year was known."
+Incident Hour,This value rounds to the nearest whole hour in values of 0 to 23.
+CCRB Received Date,Date the complaint was received at CCRB.
+Close Date,Complaint close date.
+Borough Of Incident Occurrence,"Manhattan, Bronx, Queens, Brooklyn, Staten Island"
+Precinct Of Incident Occurrence,Investigations that do not progress far enough to obtain this data will have null values. See a map of precincts at: https://www.nyc.gov/site/nypd/bureaus/patrol/find-your-precinct.page
+Location Type Of Incident,"General description of the location of the incident. The list of possible values is: 
+Apartment/house                         
+Bus                                     
+Commercial building                     
+Hospital                                
+NYCHA (NYC Housing Authority, NYC's public housing authority)                                 
+Other                                   
+Other                                   
+Park                                    
+Police building                         
+Police vehicle                          
+Public space/building                   
+Residential building                    
+River or waterway                       
+School                                  
+Street/highway                          
+Subway station/train           "
+Reason for Police Contact,The reason given for initial police contact.
+Outcome Of Police Encounter,The outcome of the police contact.
+CCRB Complaint Disposition,The overall disposition for the complaint.
+BWC Evidence,Whether or not Body-Worn Camera footage was collected as evidence in the complaint. All uniformed members of the service below the rank of Deputy Inspector in the New York City Police Department (NYPD) are equipped with body-worn cameras (BWCs). 
+Video Evidence,"Whether or not video footage, excluding Body-Worn Camera footage, was collected as evidence in the complaint."
