@@ -7,13 +7,7 @@ The quality of the output is highly dependent on the input. It relies on New Yor
 
 It is important that any users of this workflow duplicate the AirTable so that the original stays preserved with all the relevant columns and metadata. Ideally, the access use restrictions will make sure that this is the case.
 
-## Test Objectives
-
-- Ensure all key features function as expected
-- Verify that the NYC Open Data Portal is providing data in the expected format
-- Confirm that metadata is accurate to the data being provided
-
-## 2. System Overview & Components Under Test
+## 1. System Overview & Components Under Test
 
 | Component | Description | 
 |---|---|
@@ -26,7 +20,7 @@ It is important that any users of this workflow duplicate the AirTable so that t
 
 ---
 
-## 3. Quality & Performance Objectives
+## 2. Quality & Performance Objectives
 
 | Objective | Target | Rationale |
 |---|---|---|
@@ -40,7 +34,7 @@ It is important that any users of this workflow duplicate the AirTable so that t
 
 ---
 
-## 4. Functional Tests
+## 3. Functional Tests
 
 | Test Name | Steps | Expected Result | 
 |---|---|---|
@@ -53,7 +47,7 @@ It is important that any users of this workflow duplicate the AirTable so that t
 
 ---
 
-## 5. Performance Tests
+## 4. Performance Tests
 
 Performance tests verify the system behaves within acceptable time and scale limits under realistic conditions.
 
@@ -67,21 +61,7 @@ Performance tests verify the system behaves within acceptable time and scale lim
 
 ---
 
-## 6. Data Quality Tests
-
-These tests go beyond functional correctness to verify that the data content itself is meaningful, consistent, and trustworthy.
-
-| Test Name | Method | Expected Result |
-|---|---|---|
-| Date field validity | Assert all complaint dates are within a plausible range (e.g., 1985–present) | No dates in the future; no dates before CCRB was established |
-| Allegation type vocabulary | Check unique values in Allegation Type column against known CCRB taxonomy | No unexpected free-text values; all values match known categories |
-| Precinct code validity | Assert all precinct numbers are integers within 1–123 (valid NYPD precincts) | No out-of-range or non-numeric precinct values |
-| Cross-file consistency | Sample 20 Complaint IDs; verify officer Tax ID matches across all three source files | 100% consistency on sampled records |
-| Definition currency | Manually review column metadata against current NYC Open Data data dictionary and other relevant sources | All definitions match current portal documentation |
-
----
-
-## 7. Alarms & Ongoing Monitoring
+## 5. Alarms & Ongoing Monitoring
 
 Because the system depends on an external data source (NYC Open Data) and a third-party platform (AirTable), conditions can change without notice. The following monitoring strategy ensures issues are caught early.
 
