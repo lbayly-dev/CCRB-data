@@ -22,6 +22,7 @@ Therefore, this project amends the existing information structure in the followi
 ## How to use the workflow: 
 
 **Python instructions:**
+
 The code to execute the workflow runs in Python and is accessible as a python document in the repository (nypd_officer_360.py). The python document contains a link to a Google Colab notebook at the top, which can be used to view and copy the code in that application. The code can also be copy and pasted into a Python notebook in another application. 
 Due to access restrictions, any changes made to the notebook in Colab will not save unless a copy is made. Making a copy immediately is recommended. 
 The required libraries are listed here and at the beginning of the code: 
@@ -35,7 +36,8 @@ import seaborn as sns
 * The code will generate a csv file. This can be saved and used as is, or opened in a spreadsheet viewer like Excel.
 * Using the AirTable component is optional, but provides integrated metadata in the column headings. 
 
-**AirTable instructions**
+**AirTable instructions:**
+
 The resulting csv can be uploaded into AirTable through the following link (recommend opening in a new tab): https://airtable.com/appwE4Y7weLf9rSru/shr6hBM2WKjwuM6Ve
 
 * A **copy base** button should appear in the top left corner of the screen, next to the "Interactive Data Explorer" title. 
