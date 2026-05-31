@@ -48,6 +48,8 @@ The resulting csv can be uploaded into AirTable through the following link (reco
 * Note that AirTable has a limit of 50,000 records in one base. Filtering the data by borough should reduce the number of records to this amount
 * If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file from AirTable
 
+* The PowerPoint presentation in the folder provides some useful screenshots for using Airtable
+
 **Note on Metadata**
 * Hovering over the i icon in each column header will reveal information about the data in that column
 * Column metadata and other useful data can be found in the adjoining tables 
