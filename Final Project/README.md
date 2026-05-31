@@ -48,7 +48,7 @@ If none of the columns is further edited from the code, the resulting csv can be
 * If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file
 
 ## FAIR assessment 
-This project integrates different datasets about the New York City Police Department that are available through the New York City Open Data portal. Each of the base data sets comes with an extensive set of metadata (F, I, R) that clearly lays out how the data was created and have data dictionaries to go along with them to explain terms used (I). The project will come with its own set of metadata and explanation of terms to provide context for the information (A, I). The final dataset will be searchable to allow for easy information retrieval and will also be exportable as a csv file (F, I).  
+This project integrates different datasets about the New York City Police Department that are available through the New York City Open Data portal. Each of the base data sets comes with a set of metadata (F, I, R) that clearly lays out how the data was created and have data dictionaries to go along with them to explain terms used (I). This metadata has been enhanced with further information from other sources, and will be provided as a set of metadata and explanation of terms to provide context for the information (A, I, R). The final dataset will be searchable to allow for easy information retrieval and will also be exportable as a csv file (F, I). The data and metadata can be reused by others following the steps outlined above (R). 
 
 ## Sources
 The data used in this project comes from the NYC Open Data Portal, published by the City of New York https://opendata.cityofnewyork.us/
