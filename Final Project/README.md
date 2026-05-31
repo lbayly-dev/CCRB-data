@@ -44,6 +44,7 @@ If none of the columns is further edited from the code, the resulting csv can be
 * Note that AirTable has a limit of 50,000 records in one base. Filtering the data by borough should reduce the number of records to this amount
 * If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file
 
+**Note on Metadata**
 * Hovering over the i icon in each column header will reveal information about the data in that column
 * Column metadata and other useful data can be found in the adjoining tables 
   
