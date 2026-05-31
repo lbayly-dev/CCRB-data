@@ -40,7 +40,7 @@ import seaborn as sns
 
 The resulting csv can be uploaded into AirTable through the following link (recommend opening in a new tab): https://airtable.com/appwE4Y7weLf9rSru/shr6hBM2WKjwuM6Ve
 
-* A **copy base** button should appear in the top left corner of the screen, next to the "Interactive Data Explorer" title. 
+* A **copy base** button should appear in the top left corner of the screen, next to the "Interactive Data Explorer" title.
 * The data can be uploaded by clicking on the carrot next to Manhattan Police Complaints
 * Import data -> csv file (this will be the csv file you created using the python code above)
 * The columns should automatically map to the pre-filled column headings, as long as no additional columns have been removed
