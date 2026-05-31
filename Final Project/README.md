@@ -41,8 +41,9 @@ The resulting csv can be uploaded into AirTable through the following link (reco
 * The data can be uploaded by clicking on the carrot next to Manhattan Police Complaints
 * Import data -> csv file (this will be the csv file you created using the python code above)
 * The columns should automatically map to the pre-filled column headings, as long as no additional columns have been removed
+* In "Other Settings" in the upload screen, toggle on "Exclude first row on import" to not duplicate column headings
 * Note that AirTable has a limit of 50,000 records in one base. Filtering the data by borough should reduce the number of records to this amount
-* If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file
+* If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file from AirTable
 
 **Note on Metadata**
 * Hovering over the i icon in each column header will reveal information about the data in that column
