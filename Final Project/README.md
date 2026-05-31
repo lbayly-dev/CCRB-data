@@ -15,6 +15,7 @@ Therefore, this project amends the existing information structure in the followi
 
 ## How to use the workflow: 
 The code to execute the workflow runs in Python and is accessible as a python document in the repository (nypd_officer_360.py). The python document contains a link to a Google Colab notebook at the top, which can be used to view and copy the code in that application. The code can also be copy and pasted into a Python notebook in another application. 
+Due to access restrictions, any changes made to the notebook in Colab will not save unless a copy is made. Making a copy immediately is recommended. 
 
 ## How to install the required libraries:
 **Python instructions**
