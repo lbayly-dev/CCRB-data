@@ -35,12 +35,12 @@ import seaborn as sns
 * Using the AirTable component is optional, but provides integrated metadata in the column headings. 
 
 **AirTable instructions**
-If none of the columns is further edited from the code, the resulting csv can be uploaded into AirTable through the following link (recommend opening in a new tab): https://airtable.com/appwE4Y7weLf9rSru/shr6hBM2WKjwuM6Ve
+The resulting csv can be uploaded into AirTable through the following link (recommend opening in a new tab): https://airtable.com/appwE4Y7weLf9rSru/shr6hBM2WKjwuM6Ve
 
 * A **copy base** button should appear in the top left corner of the screen, next to the "Interactive Data Explorer" title. 
-  
 * The data can be uploaded by clicking on the carrot next to Manhattan Police Complaints
-* Import data -> csv file
+* Import data -> csv file (this will be the csv file you created using the python code above)
+* The columns should automatically map to the pre-filled column headings, as long as no additional columns have been removed
 * Note that AirTable has a limit of 50,000 records in one base. Filtering the data by borough should reduce the number of records to this amount
 * If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file
 
