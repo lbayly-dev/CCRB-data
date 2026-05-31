@@ -35,17 +35,18 @@ import seaborn as sns
 * Using the AirTable component is optional, but provides integrated metadata in the column headings. 
 
 **AirTable instructions**
-If none of the columns is further edited from the code, the resulting csv can be uploaded into AirTable through the following link: https://airtable.com/invite/l?inviteId=invCxT6hEEdCLxNTH&inviteToken=a58d9ed4b56b18bab9b55d67f6a8b6585b8ae85d935595e6c3edc1720dc493da&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts 
+If none of the columns is further edited from the code, the resulting csv can be uploaded into AirTable through the following link (recommend opening in a new tab): https://airtable.com/appwE4Y7weLf9rSru/shr6hBM2WKjwuM6Ve
 
-* A **duplicate** of the table should be made by clicking on the carrot next to Interactive Data Explorer
-* Click on the three dots on the right hand side of the menu
-* Click duplicate base
+* A **copy base** button should appear in the top left corner of the screen, next to the "Interactive Data Explorer" title. 
   
 * The data can be uploaded by clicking on the carrot next to Manhattan Police Complaints
 * Import data -> csv file
 * Note that AirTable has a limit of 50,000 records in one base. Filtering the data by borough should reduce the number of records to this amount
-* Hovering over the i icon in each column header will reveal information about the data in that column
 * If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file
+
+* Hovering over the i icon in each column header will reveal information about the data in that column
+* Column metadata and other useful data can be found in the adjoining tables 
+  
 
 ## FAIR assessment 
 This project integrates different datasets about the New York City Police Department that are available through the New York City Open Data portal. Each of the base data sets comes with a set of metadata (F, I, R) that clearly lays out how the data was created and have data dictionaries to go along with them to explain terms used (I). This metadata has been enhanced with further information from other sources, and will be provided as a set of metadata and explanation of terms to provide context for the information (A, I, R). The final dataset will be searchable to allow for easy information retrieval and will also be exportable as a csv file (F, I). The data and metadata can be reused by others following the steps outlined above (R). 
