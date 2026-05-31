@@ -50,7 +50,7 @@ If none of the columns is further edited from the code, the resulting csv can be
 ## FAIR assessment 
 This project integrates different datasets about the New York City Police Department that are available through the New York City Open Data portal. Each of the base data sets comes with an extensive set of metadata (F, I, R) that clearly lays out how the data was created and have data dictionaries to go along with them to explain terms used (I). The project will come with its own set of metadata and explanation of terms to provide context for the information (A, I). The final dataset will be searchable to allow for easy information retrieval and will also be exportable as a csv file (F, I).  
 
-**Sources**
+## Sources
 The data used in this project comes from the NYC Open Data Portal, published by the City of New York https://opendata.cityofnewyork.us/
 Information for the metadata provided in this project comes from the Data Dictionary published alongside the data in the Open Data Portal. It has been enhanced with information from the following sources: 
 https://nypdonline.org/link/1026
