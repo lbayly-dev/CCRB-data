@@ -20,20 +20,16 @@ Therefore, this project amends the existing information structure in the followi
 * Access methodology: the data is no longer stuck in an overwhelming csv file, but can be viewed in a more easily understandable table through AirTable.
 
 ## How to use the workflow: 
+
+**Python instructions:**
 The code to execute the workflow runs in Python and is accessible as a python document in the repository (nypd_officer_360.py). The python document contains a link to a Google Colab notebook at the top, which can be used to view and copy the code in that application. The code can also be copy and pasted into a Python notebook in another application. 
 Due to access restrictions, any changes made to the notebook in Colab will not save unless a copy is made. Making a copy immediately is recommended. 
-
-**Python instructions**
-The data configuration for this project occurs in Python. The required libraries are listed here and at the beginning of the code: 
+The required libraries are listed here and at the beginning of the code: 
  
 import requests  
-
 import pandas as pd  
-
 import io  
-
 import matplotlib.pyplot as plt  
-
 import seaborn as sns
 
 * The code will generate a csv file. This can be saved and used as is, or opened in a spreadsheet viewer like Excel.
