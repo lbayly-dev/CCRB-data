@@ -15,6 +15,7 @@ Currently, the data that provides information about NYPD officer conduct and the
 **Changes to information structure:**
 
 The raw data is drawn from the NYC Open Data Portal (https://data.cityofnewyork.us/browse?q=Data-Collection_Data-Collection%3DCCRB+Complaints+Database&sortBy=relevance&pageSize=20&page=1), and configured uisng Python code. The resulting csv file can be uploaded into an AirTable, which includes descriptions for each column to provide additional context to the user, and make the data more understandable and usable. This final product provides a comprehensive overview of police officer information, allegations, and complaints, all in one place, rather than spread out across multiple files. This also allows for searches to be done across multiple different officer identifiers, such as Tax ID, shield number, last name, rank, or precinct. The AirTable presentation of the data also includes notes in the column headings to explain what the data in that column means, so that the user does not have to go and look for that information elsewhere. If the user chooses not to use the AirTable component of this project, they can also reference the data as csv files attached to this GitHub. Since the code automatically pulls the most recent data from the Open Data Portal, the user knows that they are working with the most up to date information, without having to manually download csv files. 
+
 Therefore, this project amends the existing information structure in the following ways: 
 * Information itself: data is filtered to only show what is relevant to the user. Comments throughout the code explain the modifications being made to the code, such as filtering only for officers that are active. The code can be adapted to the needs of the user, or run as is. 
 * Access methodology: the data is no longer stuck in an overwhelming csv file, but can be viewed in a more easily understandable table through AirTable.
@@ -34,7 +35,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 * The code will generate a csv file. This can be saved and used as is, or opened in a spreadsheet viewer like Excel.
-* Using the AirTable component is optional, but provides integrated metadata in the column headings. 
+* Using the AirTable component is optional, but provides integrated metadata in the column headings.
+* Please note that for file size reasons, the code filters the original dataset to only display currently active officers. It is not recommended to use this workflow for research on officers who have retired from the NYPD. 
 
 **AirTable instructions:**
 
@@ -53,7 +55,7 @@ The resulting csv can be uploaded into AirTable through the following link (reco
 **Note on Metadata**
 * Hovering over the i icon in each column header will reveal information about the data in that column
 * Column metadata and other useful data can be found in the adjoining tables 
-  
+
 
 ## FAIR assessment 
 This project integrates different datasets about the New York City Police Department that are available through the New York City Open Data portal. Each of the base data sets comes with a set of metadata (F, I, R) that clearly lays out how the data was created and have data dictionaries to go along with them to explain terms used (I). This metadata has been enhanced with further information from other sources, and will be provided as a set of metadata and explanation of terms to provide context for the information (A, I, R). The final dataset will be searchable to allow for easy information retrieval and will also be exportable as a csv file (F, I). The data and metadata can be reused by others following the steps outlined above (R). 
