@@ -37,4 +37,5 @@ The resulting csv can be uploaded into AirTable through the following link (reco
 
 ## Note on Metadata
 * Hovering over the i icon in each column header will reveal information about the data in that column
-* Column metadata and other useful data can be found in the adjoining tables 
+* Column metadata and other useful data can be found in the adjoining tables
+* All metadata that is present in AirTable is also available in this repository in the Metadata folder. The csv files can be downloaded and used in other settings. 
