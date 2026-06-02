@@ -13,7 +13,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 * There are comments throughout the code to explain what is happening. The borough filter can be updated (Manhattan, Bronx, Queens, Staten Island, Brooklyn) to reflect different data. 
-* The code can be adjust to include or exclude columns. 
+* The code can be adjust to include or exclude columns.
+* The code contains a filter to **only display active officers.** Please keep this in mind for any further analysis. 
 * The code will generate a csv file. This can be saved and used as is, or opened in a spreadsheet viewer like Excel.
 * Using the AirTable component is optional, but provides integrated metadata in the column headings. 
 * Please note that for file size reasons, the code filters the original dataset to only display currently active officers. It is not recommended to use this workflow for research on officers who have retired from the NYPD. 
