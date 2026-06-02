@@ -1,5 +1,10 @@
 # CCRB-data
-An insight into New York City Police Department (NYPD) Civilian Complaint Review Board (CCRB) data. The worklow instructions can be found in the Workflow instructions.md. The necessary code for the project can be copied out of nypd_officer_360.py or downloaded. 
+An insight into New York City Police Department (NYPD) Civilian Complaint Review Board (CCRB) data. 
+
+Relevant files in the repository: 
+* Worklow instructions can be found in the Workflow instructions.md. Includes link to AirTable template. 
+* The necessary code for the project can be copied out of nypd_officer_360.py or downloaded.
+* Test and quality control information can be accessed in Test and Quality Control.md
 
 ## Project background and information story: 
 When a police officer engages in misconduct against a civilian in New York City, the civilian can lodge a complaint with the Civilian Complaint Review Board (CCRB), who will investigate the claim. The data about these complaints is made public by New York City, and published throught the NYC Open Data Portal into multiple tables. This project partly came out of my experience working as a paralegal at the Manhattan District Attorney's Office. There were frequently acronyms and data that I did not understand, and had to find explanations for across different sources. The CCRB is an example of an organization that should be accessible to everyday people, but uses terminology that can be difficult to understand. Beyond making the relevant accessible in one file, this project provides definitions for terms. These definitions are pulled together from what the NYC Open Data portal provides, NYPD documentation, and some of my own knowledge. 
@@ -19,7 +24,7 @@ Therefore, this project amends the existing information structure in the followi
 * Information itself: data is filtered to only show what is relevant to the user. Comments throughout the code explain the modifications being made to the code, such as filtering only for officers that are active. The code can be adapted to the needs of the user, or run as is. 
 * Access methodology: the data is no longer stuck in an overwhelming csv file, but can be viewed in a more easily understandable table through AirTable. Metadata is presented alongside the data, rather than in another table.
 
-## FAIR assessment of the final structure 
+## Final Structure FAIR Assessment
 This project integrates different datasets about the New York City Police Department that are available through the New York City Open Data portal. Each of the base data sets comes with a set of metadata (F, I, R) that clearly lays out how the data was created and have data dictionaries to go along with them to explain terms used (I). This metadata has been enhanced with further information from other sources, and will be provided as a set of metadata and explanation of terms to provide context for the information (A, I, R). The final dataset will be searchable to allow for easy information retrieval and will also be exportable as a csv file (F, I). The data and metadata can be reused by others following the steps outlined above (R). 
 
 ## Note on Ethics 
