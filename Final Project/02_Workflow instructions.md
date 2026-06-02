@@ -32,6 +32,7 @@ The resulting csv can be uploaded into AirTable through the following link (reco
 * If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file from AirTable
 
 
+
 * Slide 10 of the PowerPoint presentation in the folder provides some useful screenshots for uploading the data into Airtable
 * The AirTable uses TaxID as the first column, as this is an ID unique to one officer, and will stay with them throughout their entire career with the NYPD. 
 
