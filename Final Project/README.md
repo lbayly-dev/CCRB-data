@@ -1,5 +1,5 @@
 # CCRB-data
-An insight into New York City Police Department (NYPD) Civilian Complaint Review Board (CCRB) data.
+An insight into New York City Police Department (NYPD) Civilian Complaint Review Board (CCRB) data. The worklow instructions can be found in the Workflow instructions.md. The necessary code for the project can be copied out of nypd_officer_360.py or downloaded. 
 
 ## Project background and information story: 
 When a police officer engages in misconduct against a civilian in New York City, the civilian can lodge a complaint with the Civilian Complaint Review Board (CCRB), who will investigate the claim. The data about these complaints is made public by New York City, and published throught the NYC Open Data Portal into multiple tables. This project partly came out of my experience working as a paralegal at the Manhattan District Attorney's Office. There were frequently acronyms and data that I did not understand, and had to find explanations for across different sources. The CCRB is an example of an organization that should be accessible to everyday people, but uses terminology that can be difficult to understand. Beyond making the relevant accessible in one file, this project provides definitions for terms. These definitions are pulled together from what the NYC Open Data portal provides, NYPD documentation, and some of my own knowledge. 
@@ -21,43 +21,6 @@ Therefore, this project amends the existing information structure in the followi
 
 ## FAIR assessment of the final structure 
 This project integrates different datasets about the New York City Police Department that are available through the New York City Open Data portal. Each of the base data sets comes with a set of metadata (F, I, R) that clearly lays out how the data was created and have data dictionaries to go along with them to explain terms used (I). This metadata has been enhanced with further information from other sources, and will be provided as a set of metadata and explanation of terms to provide context for the information (A, I, R). The final dataset will be searchable to allow for easy information retrieval and will also be exportable as a csv file (F, I). The data and metadata can be reused by others following the steps outlined above (R). 
-
-## How to use the workflow: 
-
-**Python instructions:**
-
-The code to execute the workflow runs in Python and is accessible as a python document in the repository (nypd_officer_360.py). The python document contains a link to a Google Colab notebook at the top, which can be used to view and copy the code in that application. The code can also be copy and pasted into a Python notebook in another application. 
-Due to access restrictions, any changes made to the notebook in Colab will not save unless a copy is made. Making a copy immediately is recommended. 
-The required libraries are listed here and at the beginning of the code: 
- 
-import requests  
-import pandas as pd  
-import io  
-import matplotlib.pyplot as plt  
-import seaborn as sns
-
-* The code will generate a csv file. This can be saved and used as is, or opened in a spreadsheet viewer like Excel.
-* Using the AirTable component is optional, but provides integrated metadata in the column headings.
-* Please note that for file size reasons, the code filters the original dataset to only display currently active officers. It is not recommended to use this workflow for research on officers who have retired from the NYPD. 
-
-**AirTable instructions:**
-
-The resulting csv can be uploaded into AirTable through the following link (recommend opening in a new tab): https://airtable.com/appwE4Y7weLf9rSru/shr6hBM2WKjwuM6Ve
-
-* A **copy base** button should appear in the top left corner of the screen, next to the "Interactive Data Explorer" title.
-* The data can be uploaded by clicking on the carrot next to Manhattan Police Complaints
-* Import data -> csv file (this will be the csv file you created using the python code above)
-* The columns should automatically map to the pre-filled column headings, as long as no additional columns have been removed
-* In "Other Settings" in the upload screen, toggle on "Exclude first row on import" to not duplicate column headings
-* Note that AirTable has a limit of 50,000 records in one base. Filtering the data by borough should reduce the number of records to this amount
-* If any further filtering or manipulation is done to the data in AirTable, the resulting information can be exported as a new csv file from AirTable
-
-* The PowerPoint presentation in the folder provides some useful screenshots for using Airtable
-
-**Note on Metadata**
-* Hovering over the i icon in each column header will reveal information about the data in that column
-* Column metadata and other useful data can be found in the adjoining tables 
-
 
 ## Note on Ethics 
 All the data pulled into this workflow is information that is publicly accessible through the NYC Open Data Portal. No additional data about officers is added. Police officers are aware of the data that is publicly accessible about them, and this information assists with transparent and accountable policing. While any personal information online can be used to target individuals, that danger does not outweigh the beenfit of citizens knowing who they are being policed by. We do not condone using the data in this project for any action against officers, it is for information purposes only. 
